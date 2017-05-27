@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to VDR-Projects
 
-You can use the [editor on GitHub](https://github.com/vdr-projects/vdr-projects.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### What is this?
+This is supposed to be a collection of all VDR plugin repositories. Most of them are just mirrors of several other pages to create a single point where all plugins can be found.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### VDR? What's that?
+You can find more information on VDR on http://tvdr.de/
 
-### Markdown
+### Your're mirroring other repositories? Why?
+Well, we've seen plugin developers come an go. Especially in the last few years we see more developers go than new developers come. And what makes this even more problematic is that they're not just gone. They are completely vanished.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The development of the VDR software itself is still going on. And from time to time there are new developments which cause plugin to no longer compile or behave weird. And even for that we have a few people in the community who try to fix these plugins and provide patches.
 
-```markdown
-Syntax highlighted code block
+Most of these patches are gathered in the German-speaking forum http://vdr-portal.de. Well, and everyone knows how forums are like. Things get confusing really fast. Patches are spread into different threads. Thread names are not always obvious enough to expect patches in there. And since it's German speaking only. We completely lock out the bigger international community.
 
-# Header 1
-## Header 2
-### Header 3
+Gathering everything on Github also encourages one-time contributions. Almost everyone has a Github account nowadays.
 
-- Bulleted
-- List
+### And how do mirrors help?
+Well, they don't. At least not on their own. We'd like all remaining plugin developers to join this Github organization here. To help keep orphaned plugins alive and to protect still developed plugins from the same fate as these orphaned plugins.
 
-1. Numbered
-2. List
+### Protection? Sounds nice? How do you think you can accomplish that?
+Github organizations have a very good hierachy for that. Organization owner is the highest position. Whoever is in this position (one ore more) can add new repository owners or repository members to repositories inside the organization. These new owners or members can continue development.
 
-**Bold** and _Italic_ and `Code` text
+So no forks and no confusion.
 
-[Link](url) and ![Image](src)
-```
+### Wait! You want me to give up my plugin?
+No! Of course not. We just want to keep development going. As long as you react to pull requests within 8 weeks everything is fine. After that it's theoretically possible to add another repository member to your plugin. We will never remove anyone's push permission. You can continue developing your plugin. And you can even tell us to remove others from your plugin.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### I'd like to communicate with you? How can I do that?
+That's easy. If you want to take over a plugin have someone removed from your plugin or for everything else, just open an issue [here](https://github.com/vdr-projects/vdr-projects.github.io/issues).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vdr-projects/vdr-projects.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
