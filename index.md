@@ -16,7 +16,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |cecremote|Actively maintained|<https://uli-eckhardt.de/vdr/cec.en.shtml>|
 |chanman|Community maintained|<https://github.com/vdr-projects/vdr-plugin-chanman>|
 |channellists|Unknown|TBD|
-|channelscan|Unknown|TBD|
+|channelscan|Actively maintained|<https://bitbucket.org/ua0lnj/channelscan/src/master/>|
 |cinebars|Unknown|TBD|
 |dbus2vdr|Unknown|TBD|
 |ddci2|Unknown|TBD|
@@ -25,6 +25,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |dummydevice|Unknown|TBD|
 |duplicates|Unknown|TBD|
 |dvbapi|Unknown|TBD|
+|dynamite|Actively maintained|<https://github.com/MarkusEh/vdr-plugin-dynamite>|
 |eepg|Unknown|TBD|
 |epg2vdr|Unknown|TBD|
 |epgborder|Unknown|TBD|
@@ -43,9 +44,9 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |imonlcd|Unknown|TBD|
 |iptv|Unknown|TBD|
 |lcdproc|Unknown|TBD|
-|live|Unknown|TBD|
+|live|Actively maintained|<https://github.com/MarkusEh/vdr-plugin-live>|
 |loadepg|Unknown|TBD|
-|markad|Unknown|TBD|
+|markad|Actively maintained|<https://github.com/kfb77/vdr-plugin-markad>|
 |mcli|Community maintained|<https://github.com/vdr-projects/vdr-plugin-mcli>|
 |mp3|Unknown|TBD|
 |mpv|Unknown|TBD|
@@ -76,8 +77,8 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |skinpearlhd|Unknown|TBD|
 |skinsoppalusikka|Unknown|TBD|
 |sleeptimer|Unknown|TBD|
-|softhdcuvid|Unknown|TBD|
-|softhddevice|Unknown|TBD|
+|softhdcuvid|Actively maintained|TBD|
+|softhddevice|Actively maintained|<https://github.com/ua0lnj/vdr-plugin-softhddevice>|
 |streamdev|Unknown|TBD|
 |suspendoutput|Unknown|TBD|
 |svdrposd|Unknown|TBD|
@@ -96,7 +97,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vnsiserver|Actively maintained|<https://github.com/mdre77/vdr-plugin-vnsiserver>|
 |vompserver|Unknown|TBD|
 |weatherforecast|Unknown|TBD|
-|wirbelscan|Unknown|TBD|
+|wirbelscan|Actively maintained|<https://www.gen2vdr.de/wirbel/wirbelscan/index2.html>|
 |xineliboutput|Unknown|TBD|
 |xmltv2vdr|Unknown|TBD|
 |zaphistory|Unknown|TBD|
