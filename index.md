@@ -1,36 +1,135 @@
 ## Welcome to VDR-Projects
 
 ### What is this?
-This is supposed to be a collection of all VDR plugin repositories. Most of them are just mirrors of several other pages to create a single point where all plugins can be found.
 
-### VDR? What's that?
-You can find more information on VDR on [the official website](http://tvdr.de)
+This page is meant to provide an overview about where which VDR plugin is currently maintained or if it is maintained at all. Additionally the "vdr-projects" GitHub organization can provide repositories for projects that are related to VDR.
 
-### Your're mirroring other repositories? Why?
-Well, we've seen plugin developers come an go. Especially in the last few years we see more developers go than new developers come. And what makes this even more problematic is that they're not just gone. They completely vanished.
+### Overview of known, still used, VDR plugins
 
-The development of the VDR software itself is still going on. And from time to time there are new developments which cause plugin to no longer compile or behave weird. And even for that we have a few people in the community who try to fix these plugins and provide patches.
+|Plugin name|Maintenance status|Plugin project page|
+|--|--|--|
+|autostart|Actively maintained|http://www.uli-eckhardt.de/vdr/autostart.en.shtml|
+|bgprocess|Community maintained|TBD|
+|burn|Actively maintained|https://projects.vdr-developer.org/projects/plg-burn|
+|cdplayer|Actively maintained|http://uli-eckhardt.de/vdr/cdplayer.en.shtml|
+|cecremote|Actively maintained|https://uli-eckhardt.de/vdr/cec.en.shtml|
+|chanman|Unknown|http://projects.vdr-developer.org/projects/plg-chanman|
+|channellists|Unknown|TBD|
+|channelscan|Unknown|TBD|
+|cinebars|Unknown|TBD|
+|dbus2vdr|Unknown|TBD|
+|ddci2|Unknown|TBD|
+|devstatus|Actively maintained|https://gitlab.com/kamel5/devstatus|
+|dfatmo|Unknown|TBD|
+|dummydevice|Unknown|TBD|
+|duplicates|Unknown|TBD|
+|dvbapi|Unknown|TBD|
+|eepg|Unknown|TBD|
+|epg2vdr|Unknown|TBD|
+|epgborder|Unknown|TBD|
+|epgfixer|Unknown|TBD|
+|epgsearch|Unknown|TBD|
+|epgsync|Unknown|TBD|
+|externalplayer|Unknown|TBD|
+|extrecmenu(ng)|Actively maintained|https://gitlab.com/kamel5/extrecmenung|
+|favorites|Unknown|TBD|
+|femon|Unknown|TBD|
+|filebrowser|Unknown|TBD|
+|fritzbox|Unknown|TBD|
+|gamepad|Unknown|TBD|
+|graphlcd|Unknown|TBD|
+|hddarchive|Unknown|TBD|
+|imonlcd|Unknown|TBD|
+|iptv|Unknown|TBD|
+|lcdproc|Unknown|TBD|
+|live|Unknown|TBD|
+|loadepg|Unknown|TBD|
+|markad|Unknown|TBD|
+|mp3|Unknown|TBD|
+|mpv|Unknown|TBD|
+|neutrinoepg|Unknown|TBD|
+|noepg|Unknown|TBD|
+|osd2web|Unknown|TBD|
+|osdteletext|Unknown|TBD|
+|peer|Unknown|TBD|
+|play|Unknown|TBD|
+|plex|Unknown|TBD|
+|pulsecontrol|Unknown|TBD|
+|radio|Unknown|TBD|
+|recsearch|Unknown|TBD|
+|remote|Unknown|TBD|
+|remoteosd|Unknown|TBD|
+|remotetimers|Unknown|TBD|
+|restfulapi|Unknown|TBD|
+|rpihddevice|Unknown|TBD|
+|rssreader|Unknown|TBD|
+|satip|Unknown|TBD|
+|scraper2vdr|Unknown|TBD|
+|skindesigner|Actively maintained|https://gitlab.com/kamel5/skindesigner|
+|skinenigmang|Unknown|TBD|
+|skinflat|Unknown|TBD|
+|skinflatplus|Unknown|TBD|
+|skinlcarsng|Actively maintained|https://gitlab.com/kamel5/skinlcarsng|
+|skinnopacity|Actively maintained|https://gitlab.com/kamel5/SkinNopacity|
+|skinpearlhd|Unknown|TBD|
+|skinsoppalusikka|Unknown|TBD|
+|sleeptimer|Unknown|TBD|
+|softhdcuvid|Unknown|TBD|
+|softhddevice|Unknown|TBD|
+|streamdev|Unknown|TBD|
+|suspendoutput|Unknown|TBD|
+|svdrposd|Unknown|TBD|
+|svdrpservice|Unknown|TBD|
+|systeminfo|Unknown|TBD|
+|targavfd|Unknown|TBD|
+|text2skin|Unknown|TBD|
+|trayopenng|Unknown|TBD|
+|tvguide|Actively maintained|https://gitlab.com/kamel5/tvguide|
+|tvguideng|Actively maintained|https://gitlab.com/kamel5/tvguideng|
+|tvscraper|Unknown|TBD|
+|undelete|Unknown|TBD|
+|upnp|Unknown|TBD|
+|vdrmanager|Unknown|TBD|
+|vdrtva|Unknown|TBD|
+|vnsiserver|Actively maintained|https://github.com/mdre77/vdr-plugin-vnsiserver|
+|vompserver|Unknown|TBD|
+|weatherforecast|Unknown|TBD|
+|wirbelscan|Unknown|TBD|
+|xineliboutput|Unknown|TBD|
+|xmltv2vdr|Unknown|TBD|
+|zaphistory|Unknown|TBD|
+|zappilot|Unknown|TBD|
 
-Most of these patches are gathered in the German-speaking forum [VDR-Portal](http://vdr-portal.de). Well, and everyone knows how forums are like. Things get confusing really fast. Patches are spread into different threads. Thread names are not always obvious enough to expect patches in there. And since it's German speaking only. We completely lock out the bigger international community.
 
-### And how do mirrors help?
-Well, they don't. At least not on their own. We'd like all remaining plugin developers to join this Github organization here. To help keep orphaned plugins alive and to protect still developed plugins from the same fate as these orphaned plugins.
+### How does "Community maintenance" work?
 
-Gathering everything on Github also encourages one-time contributions. Almost everyone has a Github account nowadays.
+As an alternative to scattered patches all over the internet, once a project is obviously no longer maintained (no feedback from developer and no new versions for at least 6 months or longer), then this project can be mirrored to a repository below the "vdr-projects".
 
-### Protection? Sounds nice? How do you think you can accomplish that?
-Github organizations have a very good hierachy for that. Organization owner is the highest position. Whoever is in this position (one ore more) can add new repository owners or repository members to repositories inside the organization. These new owners or members can continue development.
+Having a repository in context of the "vdr-projects" organization, where still someone can react to requests, allows to keep the plugin at least working with newer VDR versions based on community contributions. It provides an "active target" to point Pull-Requests to without someone needing to take responsibility for the whole project.
 
-So no forks and no confusion.
+If a developer officially announces that he stops maintaining his project, then a repository below "vdr-projects" may be created earlier if noone decides to continue developing it somewhere else.
 
-### Wait! You want me to give up my plugin?
-No! Of course not. We just want to keep development going at one unique place where all users expect new versions. Before anyone else touches your repository all Organization owners need to be fully satisfied that either you are no longer interested or that you gave permission. We will never remove anyone's push permission. You can continue developing your plugin later on. And you can even tell us to remove others from your plugin. You're the boss.
+
+### What if I want to take over a currently unmaintained project?
+
+If someone wants to actively maintain a currently unmaintained project, then he can apply for commit permissions to the repository hosted in the "vdr-projects" organization at any time.
+
+Keep in mind that this only works for a project in status "Community maintained". For actively maintained projects, only the current maintainer can add new contributors!
+
+If you don't want to continue maintaining a project in its current repository (for example move it to your GitHub profile or to a different hosting platform), then it would be nice if you at least let us know, so the table at the start of this page can be updated.
+
+### Can I request a new repository in context of the vdr-projects organization?
+
+Yes, you can. Just open an issue [here](https://github.com/vdr-projects/vdr-projects.github.io/issues).
+
+### What is the advantage of having my plugin hosted in context of the organization?
+
+If the plugin ever gets unmaintained again, then the actual project homepage and all links would be still the same if someone else takes over.
+
+Worst case the vdr-projects organization could even give ownership to someone else if a project is unmaintained for a long period of time and the current maintainer does not respond for whatever reason.
 
 ### I'd like to communicate with you? How can I do that?
 That's easy. If you want to take over a plugin have someone removed from your plugin or for everything else, just open an issue [here](https://github.com/vdr-projects/vdr-projects.github.io/issues).
 
 ### I am a developer and want to join you
 That's nice to hear. Open an issue [here](https://github.com/vdr-projects/vdr-projects.github.io/issues). Tell us in one or two sentences who you are and what you want to achieve. If we are satisfied, we'll give you organization member status, which gives you the ability to add new repositories to the organization.
-
-### I'd like to take over a repository
-That's also nice to hear. But that's the point where thing get complicated. You have to convince us that the original author is either gone or is fine with you taking over. All organization owners need to be fully satisfied. After that you get repository owner status.
