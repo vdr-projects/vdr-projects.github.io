@@ -46,6 +46,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |live|Unknown|TBD|
 |loadepg|Unknown|TBD|
 |markad|Unknown|TBD|
+|mcli|Community maintained|<https://github.com/vdr-projects/vdr-plugin-mcli>|
 |mp3|Unknown|TBD|
 |mpv|Unknown|TBD|
 |neutrinoepg|Unknown|TBD|
