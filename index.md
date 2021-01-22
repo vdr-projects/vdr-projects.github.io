@@ -8,18 +8,18 @@ This page is meant to provide an overview about where which VDR plugin is curren
 
 |Plugin name|Maintenance status|Plugin project page|
 |--|--|--|
-|autostart|Actively maintained|http://www.uli-eckhardt.de/vdr/autostart.en.shtml|
+|autostart|Actively maintained|<http://www.uli-eckhardt.de/vdr/autostart.en.shtml>|
 |bgprocess|Community maintained|TBD|
-|burn|Actively maintained|https://projects.vdr-developer.org/projects/plg-burn|
-|cdplayer|Actively maintained|http://uli-eckhardt.de/vdr/cdplayer.en.shtml|
-|cecremote|Actively maintained|https://uli-eckhardt.de/vdr/cec.en.shtml|
-|chanman|Unknown|http://projects.vdr-developer.org/projects/plg-chanman|
+|burn|Actively maintained|<https://projects.vdr-developer.org/projects/plg-burn>|
+|cdplayer|Actively maintained|<http://uli-eckhardt.de/vdr/cdplayer.en.shtml>|
+|cecremote|Actively maintained|<https://uli-eckhardt.de/vdr/cec.en.shtml>|
+|chanman|Unknown|<http://projects.vdr-developer.org/projects/plg-chanman>|
 |channellists|Unknown|TBD|
 |channelscan|Unknown|TBD|
 |cinebars|Unknown|TBD|
 |dbus2vdr|Unknown|TBD|
 |ddci2|Unknown|TBD|
-|devstatus|Actively maintained|https://gitlab.com/kamel5/devstatus|
+|devstatus|Actively maintained|<https://gitlab.com/kamel5/devstatus>|
 |dfatmo|Unknown|TBD|
 |dummydevice|Unknown|TBD|
 |duplicates|Unknown|TBD|
@@ -31,7 +31,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |epgsearch|Unknown|TBD|
 |epgsync|Unknown|TBD|
 |externalplayer|Unknown|TBD|
-|extrecmenu(ng)|Actively maintained|https://gitlab.com/kamel5/extrecmenung|
+|extrecmenu(ng)|Actively maintained|<https://gitlab.com/kamel5/extrecmenung>|
 |favorites|Unknown|TBD|
 |femon|Unknown|TBD|
 |filebrowser|Unknown|TBD|
@@ -65,12 +65,12 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |rssreader|Unknown|TBD|
 |satip|Unknown|TBD|
 |scraper2vdr|Unknown|TBD|
-|skindesigner|Actively maintained|https://gitlab.com/kamel5/skindesigner|
+|skindesigner|Actively maintained|<https://gitlab.com/kamel5/skindesigner>|
 |skinenigmang|Unknown|TBD|
 |skinflat|Unknown|TBD|
 |skinflatplus|Unknown|TBD|
-|skinlcarsng|Actively maintained|https://gitlab.com/kamel5/skinlcarsng|
-|skinnopacity|Actively maintained|https://gitlab.com/kamel5/SkinNopacity|
+|skinlcarsng|Actively maintained|<https://gitlab.com/kamel5/skinlcarsng>|
+|skinnopacity|Actively maintained|<https://gitlab.com/kamel5/SkinNopacity>|
 |skinpearlhd|Unknown|TBD|
 |skinsoppalusikka|Unknown|TBD|
 |sleeptimer|Unknown|TBD|
@@ -84,14 +84,14 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |targavfd|Unknown|TBD|
 |text2skin|Unknown|TBD|
 |trayopenng|Unknown|TBD|
-|tvguide|Actively maintained|https://gitlab.com/kamel5/tvguide|
-|tvguideng|Actively maintained|https://gitlab.com/kamel5/tvguideng|
+|tvguide|Actively maintained|<https://gitlab.com/kamel5/tvguide>|
+|tvguideng|Actively maintained|<https://gitlab.com/kamel5/tvguideng>|
 |tvscraper|Unknown|TBD|
 |undelete|Unknown|TBD|
 |upnp|Unknown|TBD|
 |vdrmanager|Unknown|TBD|
 |vdrtva|Unknown|TBD|
-|vnsiserver|Actively maintained|https://github.com/mdre77/vdr-plugin-vnsiserver|
+|vnsiserver|Actively maintained|<https://github.com/mdre77/vdr-plugin-vnsiserver>|
 |vompserver|Unknown|TBD|
 |weatherforecast|Unknown|TBD|
 |wirbelscan|Unknown|TBD|
