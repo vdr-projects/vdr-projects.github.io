@@ -13,7 +13,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |burn|Actively maintained|<https://projects.vdr-developer.org/projects/plg-burn>|
 |cdplayer|Actively maintained|<http://uli-eckhardt.de/vdr/cdplayer.en.shtml>|
 |cecremote|Actively maintained|<https://uli-eckhardt.de/vdr/cec.en.shtml>|
-|chanman|Unknown|<http://projects.vdr-developer.org/projects/plg-chanman>|
+|chanman|Community maintained|<https://github.com/vdr-projects/vdr-plugin-chanman>|
 |channellists|Unknown|TBD|
 |channelscan|Unknown|TBD|
 |cinebars|Unknown|TBD|
