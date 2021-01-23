@@ -64,7 +64,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |remoteosd|Unknown|TBD|
 |remotetimers|Unknown|TBD|
 |restfulapi|Unknown|TBD|
-|rpihddevice|Unknown|TBD|
+|rpihddevice|Actively maintained|<https://github.com/reufer/rpihddevice>|
 |rssreader|Unknown|TBD|
 |satip|Unknown|TBD|
 |scraper2vdr|Unknown|TBD|
@@ -106,7 +106,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 
 ### How does "Community maintenance" work?
 
-As an alternative to scattered patches all over the internet, once a project is obviously no longer maintained (no feedback from developer and no new versions for at least 6 months or longer), then this project can be mirrored to a repository below the "vdr-projects".
+As an alternative to scattered patches all over the internet, once a project is obviously no longer maintained (no feedback from developer and no new versions for at least 6 months or longer), then this project can be mirrored to a repository below the "vdr-projects" organization.
 
 Having a repository in context of the "vdr-projects" organization, where still someone can react to requests, allows to keep the plugin at least working with newer VDR versions based on community contributions. It provides an "active target" to point Pull-Requests to without someone needing to take responsibility for the whole project.
 
