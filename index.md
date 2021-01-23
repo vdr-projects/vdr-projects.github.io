@@ -9,10 +9,10 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |Plugin name|Maintenance status|Plugin project page|
 |--|--|--|
 |ac3mode|Community maintained|<https://github.com/vdr-projects/vdr-plugin-ac3mode>|
-|autostart|Actively maintained|<http://www.uli-eckhardt.de/vdr/autostart.en.shtml>|
+|autostart|Actively maintained|<https://www.uli-eckhardt.de/vdr/autostart.en.shtml>|
 |bgprocess|Community maintained|TBD|
 |burn|Actively maintained|<https://projects.vdr-developer.org/projects/plg-burn>|
-|cdplayer|Actively maintained|<http://uli-eckhardt.de/vdr/cdplayer.en.shtml>|
+|cdplayer|Actively maintained|<https://uli-eckhardt.de/vdr/cdplayer.en.shtml>|
 |cecremote|Actively maintained|<https://uli-eckhardt.de/vdr/cec.en.shtml>|
 |chanman|Community maintained|<https://github.com/vdr-projects/vdr-plugin-chanman>|
 |channellists|Unknown|TBD|
