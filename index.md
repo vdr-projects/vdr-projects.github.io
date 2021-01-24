@@ -35,14 +35,14 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |externalplayer|Unknown|TBD|
 |extrecmenu(ng)|Actively maintained|<https://gitlab.com/kamel5/extrecmenung>|
 |favorites|Unknown|TBD|
-|femon|Unknown|TBD|
+|femon|Actively maintained|<https://github.com/rofafor/vdr-plugin-femon>|
 |filebrowser|Unknown|TBD|
 |fritzbox|Unknown|TBD|
 |gamepad|Unknown|TBD|
 |graphlcd|Unknown|TBD|
 |hddarchive|Unknown|TBD|
 |imonlcd|Unknown|TBD|
-|iptv|Unknown|TBD|
+|iptv|Actively maintained|<https://github.com/rofafor/vdr-plugin-iptv>|
 |lcdproc|Unknown|TBD|
 |live|Actively maintained|<https://github.com/MarkusEh/vdr-plugin-live>|
 |loadepg|Unknown|TBD|
@@ -65,8 +65,8 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |remotetimers|Unknown|TBD|
 |restfulapi|Unknown|TBD|
 |rpihddevice|Actively maintained|<https://github.com/reufer/rpihddevice>|
-|rssreader|Unknown|TBD|
-|satip|Unknown|TBD|
+|rssreader|Actively maintained|<https://github.com/rofafor/vdr-plugin-rssreader>|
+|satip|Actively maintained|<https://github.com/rofafor/vdr-plugin-satip>|
 |scraper2vdr|Unknown|TBD|
 |skindesigner|Actively maintained|<https://gitlab.com/kamel5/skindesigner>|
 |skinenigmang|Unknown|TBD|
@@ -75,7 +75,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |skinlcarsng|Actively maintained|<https://gitlab.com/kamel5/skinlcarsng>|
 |skinnopacity|Actively maintained|<https://gitlab.com/kamel5/SkinNopacity>|
 |skinpearlhd|Unknown|TBD|
-|skinsoppalusikka|Unknown|TBD|
+|skinsoppalusikka|Actively maintained|<https://github.com/rofafor/vdr-plugin-skinsoppalusikka>|
 |sleeptimer|Unknown|TBD|
 |softhdcuvid|Actively maintained|TBD|
 |softhddevice|Actively maintained|<https://github.com/ua0lnj/vdr-plugin-softhddevice>|
@@ -86,7 +86,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |systeminfo|Unknown|TBD|
 |targavfd|Unknown|TBD|
 |text2skin|Unknown|TBD|
-|trayopenng|Unknown|TBD|
+|trayopenng|Actively maintained|<https://uli-eckhardt.de/vdr/trayopenng.en.shtml>|
 |tvguide|Actively maintained|<https://gitlab.com/kamel5/tvguide>|
 |tvguideng|Actively maintained|<https://gitlab.com/kamel5/tvguideng>|
 |tvscraper|Unknown|TBD|
