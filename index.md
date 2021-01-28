@@ -71,7 +71,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |skindesigner|Actively maintained|<https://gitlab.com/kamel5/skindesigner>|
 |skinenigmang|Unknown|TBD|
 |skinflat|Unknown|TBD|
-|skinflatplus|Unknown|TBD|
+|skinflatplus|Actively maintained|<https://github.com/MegaV0lt/vdr-plugin-skinflatplus>|
 |skinlcarsng|Actively maintained|<https://gitlab.com/kamel5/skinlcarsng>|
 |skinnopacity|Actively maintained|<https://gitlab.com/kamel5/SkinNopacity>|
 |skinpearlhd|Unknown|TBD|
