@@ -98,7 +98,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vompserver|Unknown|TBD|
 |weatherforecast|Unknown|TBD|
 |wirbelscan|Actively maintained|<https://www.gen2vdr.de/wirbel/wirbelscan/index2.html>|
-|xineliboutput|Unknown|TBD|
+|xineliboutput|Actively maintained|<https://sourceforge.net/projects/xineliboutput/>|
 |xmltv2vdr|Unknown|TBD|
 |zaphistory|Unknown|TBD|
 |zappilot|Unknown|TBD|
