@@ -15,7 +15,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |cdplayer|Actively maintained|<https://uli-eckhardt.de/vdr/cdplayer.en.shtml>|
 |cecremote|Actively maintained|<https://uli-eckhardt.de/vdr/cec.en.shtml>|
 |chanman|Community maintained|<https://github.com/vdr-projects/vdr-plugin-chanman>|
-|channellists|Unknown|TBD|
+|channellists|Community maintained|<https://github.com/vdr-projects/vdr-plugin-channellists>|
 |channelscan|Actively maintained|<https://bitbucket.org/ua0lnj/channelscan/src/master/>|
 |cinebars|Unknown|TBD|
 |dbus2vdr|Unknown|TBD|
