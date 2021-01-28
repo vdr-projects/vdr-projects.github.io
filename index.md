@@ -39,7 +39,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |filebrowser|Unknown|TBD|
 |fritzbox|Unknown|TBD|
 |gamepad|Unknown|TBD|
-|graphlcd|Unknown|TBD|
+|graphlcd|Community maintained|<https://github.com/vdr-projects/vdr-plugin-graphlcd>|
 |hddarchive|Unknown|TBD|
 |imonlcd|Unknown|TBD|
 |iptv|Actively maintained|<https://github.com/rofafor/vdr-plugin-iptv>|
