@@ -49,7 +49,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |markad|Actively maintained|<https://github.com/kfb77/vdr-plugin-markad>|
 |mcli|Community maintained|<https://github.com/vdr-projects/vdr-plugin-mcli>|
 |mp3|Unknown|TBD|
-|mpv|Unknown|TBD|
+|mpv|Community maintained|<https://github.com/vdr-projects/vdr-plugin-mpv>|
 |neutrinoepg|Unknown|TBD|
 |noepg|Unknown|TBD|
 |osd2web|Unknown|TBD|
