@@ -32,12 +32,12 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |epgfixer|Actively maintained|<https://projects.vdr-developer.org/projects/plg-epgfixer>|
 |epgsearch|Actively maintained|<https://projects.vdr-developer.org/git/vdr-plugin-epgsearch.git>|
 |epgsync|Unknown|TBD|
-|externalplayer|Unknown|TBD|
+|externalplayer|Actively maintained|<https://www.uli-eckhardt.de/vdr/external.en.shtml>|
 |extrecmenu(ng)|Actively maintained|<https://gitlab.com/kamel5/extrecmenung>|
 |favorites|Unknown|TBD|
 |femon|Actively maintained|<https://github.com/rofafor/vdr-plugin-femon>|
-|filebrowser|Unknown|TBD|
-|fritzbox|Unknown|TBD|
+|filebrowser|Community maintained|<https://github.com/vdr-projects/vdr-plugin-filebrowser>|
+|fritzbox|Actively maintained|<https://github.com/jowi24/vdr-fritz>|
 |gamepad|Unknown|TBD|
 |graphlcd|Community maintained|<https://github.com/vdr-projects/vdr-plugin-graphlcd>|
 |hddarchive|Unknown|TBD|
