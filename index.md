@@ -17,20 +17,20 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |chanman|Community maintained|<https://github.com/vdr-projects/vdr-plugin-chanman>|
 |channellists|Community maintained|<https://github.com/vdr-projects/vdr-plugin-channellists>|
 |channelscan|Actively maintained|<https://bitbucket.org/ua0lnj/channelscan/src/master/>|
-|cinebars|Unknown|TBD|
-|dbus2vdr|Unknown|TBD|
-|ddci2|Unknown|TBD|
+|cinebars|Community maintained|<https://github.com/vdr-projects/vdr-plugin-cinebars>|
+|dbus2vdr|Actively maintained|<https://github.com/flensrocker/vdr-plugin-dbus2vdr>|
+|ddci2|Actively maintained|<https://github.com/jasmin-j/vdr-plugin-ddci2>|
 |devstatus|Actively maintained|<https://gitlab.com/kamel5/devstatus>|
-|dfatmo|Unknown|TBD|
+|dfatmo|Actively maintained|<https://github.com/durchflieger/dfatmo>|
 |dummydevice|Unknown|TBD|
-|duplicates|Unknown|TBD|
-|dvbapi|Unknown|TBD|
+|duplicates|Actively maintained|<https://projects.vdr-developer.org/projects/plg-duplicates>|
+|dvbapi|Actively maintained|<https://github.com/manio/vdr-plugin-dvbapi>|
 |dynamite|Actively maintained|<https://github.com/MarkusEh/vdr-plugin-dynamite>|
 |eepg|Unknown|TBD|
-|epg2vdr|Unknown|TBD|
-|epgborder|Unknown|TBD|
-|epgfixer|Unknown|TBD|
-|epgsearch|Unknown|TBD|
+|epg2vdr|Actively maintained|<https://projects.vdr-developer.org/projects/plg-epg2vdr>|
+|epgborder|Actively maintained|<https://github.com/M-Reimer/vdr-plugin-epgborder>|
+|epgfixer|Actively maintained|<https://projects.vdr-developer.org/projects/plg-epgfixer>|
+|epgsearch|Actively maintained|<https://projects.vdr-developer.org/git/vdr-plugin-epgsearch.git>|
 |epgsync|Unknown|TBD|
 |externalplayer|Unknown|TBD|
 |extrecmenu(ng)|Actively maintained|<https://gitlab.com/kamel5/extrecmenung>|
