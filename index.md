@@ -34,7 +34,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |epgsync|Unknown|TBD|TBD|
 |externalplayer|Active maintainer|Private|[Project page](https://www.uli-eckhardt.de/vdr/external.en.shtml)|
 |extrecmenu(ng)|Active maintainer|GitLab|[Project page](https://gitlab.com/kamel5/extrecmenung)|
-|favorites|Unknown|TBD|TBD|
+|favorites|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-favorites)|
 |femon|Active maintainer|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-femon)|
 |filebrowser|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-filebrowser)|
 |fritzbox|Active maintainer|GitHub|[Project page](https://github.com/jowi24/vdr-fritz)|
