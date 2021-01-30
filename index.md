@@ -9,44 +9,44 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |Plugin name|Maintenance status|Hosting platform|Project page|
 |--|--|--|
 |ac3mode|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-ac3mode)|
-|autostart|Actively maintained|Private|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
+|autostart|Active maintainer|Private|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
 |bgprocess|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-bgprocess)|
-|burn|Actively maintained|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-burn)|
-|cdplayer|Actively maintained|Private|[Project page](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|
-|cecremote|Actively maintained|Private|[Project page](https://uli-eckhardt.de/vdr/cec.en.shtml)|
+|burn|Active maintainer|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-burn)|
+|cdplayer|Active maintainer|Private|[Project page](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|
+|cecremote|Active maintainer|Private|[Project page](https://uli-eckhardt.de/vdr/cec.en.shtml)|
 |chanman|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-chanman)|
 |channellists|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-channellists)|
-|channelscan|Actively maintained|Bitbucket|[Project page](https://bitbucket.org/ua0lnj/channelscan/src/master/)|
+|channelscan|Active maintainer|Bitbucket|[Project page](https://bitbucket.org/ua0lnj/channelscan/src/master/)|
 |cinebars|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-cinebars)|
-|dbus2vdr|Actively maintained|GitHub|[Project page](https://github.com/flensrocker/vdr-plugin-dbus2vdr)|
-|ddci2|Actively maintained|GitHub|[Project page](https://github.com/jasmin-j/vdr-plugin-ddci2)|
-|devstatus|Actively maintained|GitLab|[Project page](https://gitlab.com/kamel5/devstatus)|
-|dfatmo|Actively maintained|GitHub|[Project page](https://github.com/durchflieger/dfatmo)|
+|dbus2vdr|Active maintainer|GitHub|[Project page](https://github.com/flensrocker/vdr-plugin-dbus2vdr)|
+|ddci2|Active maintainer|GitHub|[Project page](https://github.com/jasmin-j/vdr-plugin-ddci2)|
+|devstatus|Active maintainer|GitLab|[Project page](https://gitlab.com/kamel5/devstatus)|
+|dfatmo|Active maintainer|GitHub|[Project page](https://github.com/durchflieger/dfatmo)|
 |dummydevice|Unknown|TBD|TBD|
-|duplicates|Actively maintained|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-duplicates)|
-|dvbapi|Actively maintained|GitHub|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|
-|dynamite|Actively maintained|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-dynamite)|
+|duplicates|Active maintainer|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-duplicates)|
+|dvbapi|Active maintainer|GitHub|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|
+|dynamite|Active maintainer|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-dynamite)|
 |eepg|Unknown|TBD|TBD|
-|epg2vdr|Actively maintained|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epg2vdr)|
-|epgborder|Actively maintained|GitHub|[Project page](https://github.com/M-Reimer/vdr-plugin-epgborder)|
-|epgfixer|Actively maintained|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epgfixer)|
-|epgsearch|Actively maintained|VDR-Developer|[Project page](https://projects.vdr-developer.org/git/vdr-plugin-epgsearch.git)|
+|epg2vdr|Active maintainer|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epg2vdr)|
+|epgborder|Active maintainer|GitHub|[Project page](https://github.com/M-Reimer/vdr-plugin-epgborder)|
+|epgfixer|Active maintainer|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epgfixer)|
+|epgsearch|Active maintainer|VDR-Developer|[Project page](https://projects.vdr-developer.org/git/vdr-plugin-epgsearch.git)|
 |epgsync|Unknown|TBD|TBD|
-|externalplayer|Actively maintained|Private|[Project page](https://www.uli-eckhardt.de/vdr/external.en.shtml)|
-|extrecmenu(ng)|Actively maintained|GitLab|[Project page](https://gitlab.com/kamel5/extrecmenung)|
+|externalplayer|Active maintainer|Private|[Project page](https://www.uli-eckhardt.de/vdr/external.en.shtml)|
+|extrecmenu(ng)|Active maintainer|GitLab|[Project page](https://gitlab.com/kamel5/extrecmenung)|
 |favorites|Unknown|TBD|TBD|
-|femon|Actively maintained|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-femon)|
+|femon|Active maintainer|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-femon)|
 |filebrowser|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-filebrowser)|
-|fritzbox|Actively maintained|GitHub|[Project page](https://github.com/jowi24/vdr-fritz)|
+|fritzbox|Active maintainer|GitHub|[Project page](https://github.com/jowi24/vdr-fritz)|
 |gamepad|Unknown|TBD|TBD|
 |graphlcd|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-graphlcd)|
 |hddarchive|Unknown|TBD|TBD|
 |imonlcd|Unknown|TBD|TBD|
-|iptv|Actively maintained|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-iptv)|
+|iptv|Active maintainer|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-iptv)|
 |lcdproc|Unknown|TBD|TBD|
-|live|Actively maintained|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-live)|
+|live|Active maintainer|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-live)|
 |loadepg|Unknown|TBD|TBD|
-|markad|Actively maintained|GitHub|[Project page](https://github.com/kfb77/vdr-plugin-markad)|
+|markad|Active maintainer|GitHub|[Project page](https://github.com/kfb77/vdr-plugin-markad)|
 |mcli|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|
 |mp3|Unknown|TBD|TBD|
 |mpv|Community maintained|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)|
@@ -64,21 +64,21 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |remoteosd|Unknown|TBD|TBD|
 |remotetimers|Unknown|TBD|TBD|
 |restfulapi|Unknown|TBD|TBD|
-|rpihddevice|Actively maintained|GitHub|[Project page](https://github.com/reufer/rpihddevice)|
-|rssreader|Actively maintained|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|
-|satip|Actively maintained|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-satip)|
+|rpihddevice|Active maintainer|GitHub|[Project page](https://github.com/reufer/rpihddevice)|
+|rssreader|Active maintainer|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|
+|satip|Active maintainer|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-satip)|
 |scraper2vdr|Unknown|TBD|TBD|
-|skindesigner|Actively maintained|GitLab|[Project page](https://gitlab.com/kamel5/skindesigner)|
+|skindesigner|Active maintainer|GitLab|[Project page](https://gitlab.com/kamel5/skindesigner)|
 |skinenigmang|Unknown|TBD|TBD|
 |skinflat|Unknown|TBD|TBD|
-|skinflatplus|Actively maintained|GitHub|[Project page](https://github.com/MegaV0lt/vdr-plugin-skinflatplus)|
-|skinlcarsng|Actively maintained|GitLab|[Project page](https://gitlab.com/kamel5/skinlcarsng)|
-|skinnopacity|Actively maintained|GitLab|[Project page](https://gitlab.com/kamel5/SkinNopacity)|
+|skinflatplus|Active maintainer|GitHub|[Project page](https://github.com/MegaV0lt/vdr-plugin-skinflatplus)|
+|skinlcarsng|Active maintainer|GitLab|[Project page](https://gitlab.com/kamel5/skinlcarsng)|
+|skinnopacity|Active maintainer|GitLab|[Project page](https://gitlab.com/kamel5/SkinNopacity)|
 |skinpearlhd|Unknown|TBD|TBD|
-|skinsoppalusikka|Actively maintained|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-skinsoppalusikka)|
+|skinsoppalusikka|Active maintainer|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-skinsoppalusikka)|
 |sleeptimer|Unknown|TBD|TBD|
-|softhdcuvid|Actively maintained|TBD|TBD|
-|softhddevice|Actively maintained|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|
+|softhdcuvid|Active maintainer|TBD|TBD|
+|softhddevice|Active maintainer|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|
 |streamdev|Unknown|TBD|TBD|
 |suspendoutput|Unknown|TBD|TBD|
 |svdrposd|Unknown|TBD|TBD|
@@ -86,19 +86,19 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |systeminfo|Unknown|TBD|TBD|
 |targavfd|Unknown|TBD|TBD|
 |text2skin|Unknown|TBD|TBD|
-|trayopenng|Actively maintained|Private|[Project page](https://uli-eckhardt.de/vdr/trayopenng.en.shtml)|
-|tvguide|Actively maintained|GitLab|[Project page](https://gitlab.com/kamel5/tvguide)|
-|tvguideng|Actively maintained|GitLab|[Project page](https://gitlab.com/kamel5/tvguideng)|
+|trayopenng|Active maintainer|Private|[Project page](https://uli-eckhardt.de/vdr/trayopenng.en.shtml)|
+|tvguide|Active maintainer|GitLab|[Project page](https://gitlab.com/kamel5/tvguide)|
+|tvguideng|Active maintainer|GitLab|[Project page](https://gitlab.com/kamel5/tvguideng)|
 |tvscraper|Unknown|TBD|TBD|
 |undelete|Unknown|TBD|TBD|
 |upnp|Unknown|TBD|TBD|
 |vdrmanager|Unknown|TBD|TBD|
 |vdrtva|Unknown|TBD|TBD|
-|vnsiserver|Actively maintained|GitHub|[Project page](https://github.com/mdre77/vdr-plugin-vnsiserver)|
+|vnsiserver|Active maintainer|GitHub|[Project page](https://github.com/mdre77/vdr-plugin-vnsiserver)|
 |vompserver|Unknown|TBD|TBD|
 |weatherforecast|Unknown|TBD|TBD|
-|wirbelscan|Actively maintained|Private|[Project page](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|
-|xineliboutput|Actively maintained|SourceForge|[Project page](https://sourceforge.net/projects/xineliboutput/)|
+|wirbelscan|Active maintainer|Private|[Project page](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|
+|xineliboutput|Active maintainer|SourceForge|[Project page](https://sourceforge.net/projects/xineliboutput/)|
 |xmltv2vdr|Unknown|TBD|TBD|
 |zaphistory|Unknown|TBD|TBD|
 |zappilot|Unknown|TBD|TBD|
