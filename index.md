@@ -53,7 +53,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |neutrinoepg|Unknown|✔|TBD|TBD|
 |noepg|Unknown|✔|TBD|TBD|
 |osd2web|Unknown|✔|TBD|TBD|
-|osdteletext|Unknown|✔|TBD|TBD|
+|osdteletext|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-osdteletext)|
 |peer|Unmaintained|✔|TBD|TBD|
 |play|Unknown|✔|TBD|TBD|
 |plex|Unknown|✔|TBD|TBD|
