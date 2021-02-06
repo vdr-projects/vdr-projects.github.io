@@ -42,6 +42,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |gamepad|Unknown|✔|TBD|TBD|
 |graphlcd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-graphlcd)|
 |hddarchive|Unmaintained|✗|TBD|TBD|
+|image|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-image)|
 |imonlcd|Unknown|✔|TBD|TBD|
 |iptv|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-iptv)|
 |lcdproc|Unknown|✔|TBD|TBD|
@@ -99,6 +100,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vnsiserver|Active maintainer|✔|GitHub|[Project page](https://github.com/mdre77/vdr-plugin-vnsiserver)|
 |vompserver|Unknown|✔|TBD|TBD|
 |weatherforecast|Unknown|✔|TBD|TBD|
+|weatherng|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherng)|
 |wirbelscan|Active maintainer|✔|Private|[Project page](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|
 |xineliboutput|Active maintainer|✔|SourceForge|[Project page](https://sourceforge.net/projects/xineliboutput/)|
 |xmltv2vdr|Unknown|✔|TBD|TBD|
