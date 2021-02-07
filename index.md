@@ -25,7 +25,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |dummydevice|Unknown|✔|TBD|TBD|
 |duplicates|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-duplicates)|
 |dvbapi|Active maintainer|✔|GitHub|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|
-|dvd|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-dvd)|
+|dvd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-dvd)|
 |dynamite|Active maintainer|✔|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-dynamite)|
 |eepg|Unknown|✔|TBD|TBD|
 |epg2vdr|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epg2vdr)|
@@ -100,7 +100,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vnsiserver|Active maintainer|✔|GitHub|[Project page](https://github.com/mdre77/vdr-plugin-vnsiserver)|
 |vompserver|Unknown|✔|TBD|TBD|
 |weatherforecast|Unknown|✔|TBD|TBD|
-|weatherng|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherng)|
+|weatherng|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherng)|
 |wirbelscan|Active maintainer|✔|Private|[Project page](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|
 |xineliboutput|Active maintainer|✔|SourceForge|[Project page](https://sourceforge.net/projects/xineliboutput/)|
 |xmltv2vdr|Unknown|✔|TBD|TBD|
