@@ -63,6 +63,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |pulsecontrol|Unknown|✔|TBD|TBD|
 |radio|Unknown|✔|TBD|TBD|
 |recsearch|Unknown|✔|TBD|TBD|
+|reelbox|Active maintainer|✔|GitHub|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|
 |remote|Unknown|✔|TBD|TBD|
 |remoteosd|Unknown|✔|TBD|TBD|
 |remotetimers|Unmaintained|✗|TBD|TBD|
