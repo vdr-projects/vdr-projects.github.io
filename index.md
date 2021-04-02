@@ -11,7 +11,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |ac3mode|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-ac3mode)|
 |autostart|Active maintainer|✔|Private|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
 |bgprocess|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-bgprocess)|
-|burn|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-burn)|
+|burn|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-burn)|
 |cdplayer|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|
 |cecremote|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/cec.en.shtml)|
 |chanman|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-chanman)|
