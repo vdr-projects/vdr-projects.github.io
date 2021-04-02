@@ -14,7 +14,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |burn|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-burn)|
 |cdplayer|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|
 |cecremote|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/cec.en.shtml)|
-|chanman|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-chanman)|
+|chanman|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-chanman)|
 |channellists|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-channellists)|
 |channelscan|Active maintainer|✔|Bitbucket|[Project page](https://bitbucket.org/ua0lnj/channelscan/src/master/)|
 |cinebars|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-cinebars)|
