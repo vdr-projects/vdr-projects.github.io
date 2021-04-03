@@ -40,7 +40,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |femon|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-femon)|
 |filebrowser|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-filebrowser)|
 |fritzbox|Active maintainer|✔|GitHub|[Project page](https://github.com/jowi24/vdr-fritz)|
-|gamepad|Unknown|✔|TBD|TBD|
+|gamepad|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-gamepad)|
 |graphlcd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-graphlcd)|
 |hddarchive|Unmaintained|✗|TBD|TBD|
 |image|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-image)|
