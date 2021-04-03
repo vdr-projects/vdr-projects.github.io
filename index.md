@@ -28,7 +28,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |dvbapi|Active maintainer|✔|GitHub|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|
 |dvd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-dvd)|
 |dynamite|Active maintainer|✔|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-dynamite)|
-|eepg|Unknown|✔|TBD|TBD|
+|eepg|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-eepg)|
 |epg2vdr|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epg2vdr)|
 |epgborder|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/vdr-plugin-epgborder)|
 |epgfixer|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epgfixer)|
