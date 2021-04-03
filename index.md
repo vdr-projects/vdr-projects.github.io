@@ -18,6 +18,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |channellists|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-channellists)|
 |channelscan|Active maintainer|✔|Bitbucket|[Project page](https://bitbucket.org/ua0lnj/channelscan/src/master/)|
 |cinebars|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-cinebars)|
+|control|Active maintainer|✔|GitHub|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-control)|
 |dbus2vdr|Active maintainer|✔|GitHub|[Project page](https://github.com/flensrocker/vdr-plugin-dbus2vdr)|
 |ddci2|Active maintainer|✔|GitHub|[Project page](https://github.com/jasmin-j/vdr-plugin-ddci2)|
 |devstatus|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/devstatus)|
