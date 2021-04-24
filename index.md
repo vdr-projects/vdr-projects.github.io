@@ -75,7 +75,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |scraper2vdr|Unknown|✔|TBD|TBD|
 |skindesigner|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/skindesigner)|
 |skinenigmang|Unknown|✔|TBD|TBD|
-|skinflat|Unknown|✔|TBD|TBD|
+|skinflat|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-skinflat)|
 |skinflatplus|Active maintainer|✔|GitHub|[Project page](https://github.com/MegaV0lt/vdr-plugin-skinflatplus)|
 |skinlcarsng|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/skinlcarsng)|
 |skinnopacity|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/SkinNopacity)|
