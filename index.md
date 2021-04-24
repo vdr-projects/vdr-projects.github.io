@@ -89,7 +89,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |svdrposd|Unknown|✔|TBD|TBD|
 |svdrpservice|Unknown|✔|TBD|TBD|
 |systeminfo|Unknown|✔|TBD|TBD|
-|targavfd|Unknown|✔|TBD|TBD|
+|targavfd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-targavfd)|
 |text2skin|Unknown|✔|TBD|TBD|
 |trayopenng|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/trayopenng.en.shtml)|
 |tvguide|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/tvguide)|
