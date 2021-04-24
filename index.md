@@ -107,7 +107,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |xineliboutput|Active maintainer|✔|SourceForge|[Project page](https://sourceforge.net/projects/xineliboutput/)|
 |xmltv2vdr|Unknown|✔|TBD|TBD|
 |zaphistory|Unknown|✔|TBD|TBD|
-|zappilot|Unknown|✔|TBD|TBD|
+|zappilot|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-zappilot)|
 
 
 ### How does "Community maintenance" work?
