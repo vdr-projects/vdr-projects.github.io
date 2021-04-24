@@ -81,7 +81,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |skinnopacity|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/SkinNopacity)|
 |skinpearlhd|Unmaintained|✗|TBD|TBD|
 |skinsoppalusikka|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-skinsoppalusikka)|
-|sleeptimer|Unknown|✔|TBD|TBD|
+|sleeptimer|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-sleeptimer)|
 |softhdcuvid|Active maintainer|✔|GitHub|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)|
 |softhddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|
 |streamdev|Unknown|✔|TBD|TBD|
