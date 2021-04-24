@@ -44,7 +44,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |graphlcd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-graphlcd)|
 |hddarchive|Unmaintained|✗|TBD|TBD|
 |image|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-image)|
-|imonlcd|Unknown|✔|TBD|TBD|
+|imonlcd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-imonlcd)|
 |iptv|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-iptv)|
 |lcdproc|Unknown|✔|TBD|TBD|
 |live|Active maintainer|✔|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-live)|
