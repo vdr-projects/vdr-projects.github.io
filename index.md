@@ -94,7 +94,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |trayopenng|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/trayopenng.en.shtml)|
 |tvguide|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/tvguide)|
 |tvguideng|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/tvguideng)|
-|tvscraper|Unknown|✔|TBD|TBD|
+|tvscraper|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-tvscraper)|
 |undelete|Unknown|✔|TBD|TBD|
 |upnp|Unmaintained|✗|TBD|TBD|
 |vdrmanager|Unknown|✔|TBD|TBD|
