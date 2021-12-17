@@ -74,6 +74,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |satip|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-satip)|
 |scraper2vdr|Unknown|✔|TBD|TBD|
 |skindesigner|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/skindesigner)|
+|skinelchihd|Active maintainer|✔|Private|[Project page](http://firefly.vdr-developer.org/skinelchihd/index.html)|
 |skinenigmang|Unknown|✔|TBD|TBD|
 |skinflat|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-skinflat)|
 |skinflatplus|Active maintainer|✔|GitHub|[Project page](https://github.com/MegaV0lt/vdr-plugin-skinflatplus)|
