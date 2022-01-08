@@ -97,7 +97,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |tvguide|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/tvguide)|
 |tvguideng|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/tvguideng)|
 |tvscraper|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-tvscraper)|
-|undelete|Unknown|✔|TBD|TBD|
+|undelete|Active maintainer|✔|Private|[Project page](http://phivdr.dyndns.org/vdr/vdr-undelete/)|
 |upnp|Unmaintained|✗|TBD|TBD|
 |vdrmanager|Unknown|✔|TBD|TBD|
 |vdrtva|Unknown|✔|TBD|TBD|
