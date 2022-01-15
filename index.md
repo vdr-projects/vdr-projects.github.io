@@ -34,7 +34,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |epgborder|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/vdr-plugin-epgborder)|
 |epgfixer|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epgfixer)|
 |epgsearch|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/git/vdr-plugin-epgsearch.git)|
-|epgsync|Unknown|✔|TBD|TBD|
+|epgsync|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-epgsync)|
 |externalplayer|Active maintainer|✔|Private|[Project page](https://www.uli-eckhardt.de/vdr/external.en.shtml)|
 |extrecmenu(ng)|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/extrecmenung)|
 |favorites|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-favorites)|
