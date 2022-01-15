@@ -68,7 +68,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |reelbox|Active maintainer|✔|GitHub|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|
 |remote|Unknown|✔|TBD|TBD|
 |remoteosd|Unknown|✔|TBD|TBD|
-|remotetimers|Unmaintained|✗|TBD|TBD|
+|remotetimers|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-remotetimers)|
 |restfulapi|Unknown|✔|TBD|TBD|
 |rpihddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/reufer/rpihddevice)|
 |rssreader|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|
