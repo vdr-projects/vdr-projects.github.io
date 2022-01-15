@@ -86,7 +86,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |sleeptimer|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-sleeptimer)|
 |softhdcuvid|Active maintainer|✔|GitHub|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)|
 |softhddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|
-|streamdev|Unknown|✔|TBD|TBD|
+|streamdev|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-streamdev)|
 |suspendoutput|Unknown|✔|TBD|TBD|
 |svdrposd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrposd)|
 |svdrpservice|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrpservice)|
