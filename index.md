@@ -88,7 +88,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |softhddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|
 |streamdev|Unknown|✔|TBD|TBD|
 |suspendoutput|Unknown|✔|TBD|TBD|
-|svdrposd|Unknown|✔|TBD|TBD|
+|svdrposd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrposd)|
 |svdrpservice|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrpservice)|
 |systeminfo|Unknown|✔|TBD|TBD|
 |targavfd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-targavfd)|
