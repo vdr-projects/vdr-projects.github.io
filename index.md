@@ -89,7 +89,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |streamdev|Unknown|✔|TBD|TBD|
 |suspendoutput|Unknown|✔|TBD|TBD|
 |svdrposd|Unknown|✔|TBD|TBD|
-|svdrpservice|Unknown|✔|TBD|TBD|
+|svdrpservice|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrpservice)|
 |systeminfo|Unknown|✔|TBD|TBD|
 |targavfd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-targavfd)|
 |text2skin|Unknown|✔|TBD|TBD|
