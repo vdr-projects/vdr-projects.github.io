@@ -59,7 +59,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |noepg|Unknown|✔|TBD|TBD|
 |osd2web|Active maintainer|✔|GitHub|[Project page](https://github.com/horchi/vdr-plugin-osd2web)|
 |osdteletext|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-osdteletext)|
-|peer|Unmaintained|✔|TBD|TBD|
+|peer|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-peer)|
 |play|Unknown|✔|TBD|TBD|
 |plex|Unknown|✔|TBD|TBD|
 |pulsecontrol|Unknown|✔|TBD|TBD|
