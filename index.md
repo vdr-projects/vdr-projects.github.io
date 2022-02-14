@@ -24,7 +24,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |ddci2|Active maintainer|✔|GitHub|[Project page](https://github.com/jasmin-j/vdr-plugin-ddci2)|
 |devstatus|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/devstatus)|
 |dfatmo|Active maintainer|✔|GitHub|[Project page](https://github.com/durchflieger/dfatmo)|
-|dummydevice|Unknown|✔|TBD|TBD|
+|dummydevice|Active maintainer|✔|Private|[Project page](http://phivdr.dyndns.org/vdr/vdr-dummydevice/)|
 |duplicates|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-duplicates)|
 |dvbapi|Active maintainer|✔|GitHub|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|
 |dvd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-dvd)|
@@ -87,7 +87,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |softhdcuvid|Active maintainer|✔|GitHub|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)|
 |softhddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|
 |streamdev|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-streamdev)|
-|suspendoutput|Unknown|✔|TBD|TBD|
+|suspendoutput|Active maintainer|✔|Private|[Project page](http://phivdr.dyndns.org/vdr/vdr-suspendoutput/)|
 |svdrposd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrposd)|
 |svdrpservice|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrpservice)|
 |systeminfo|Active maintainer|✔|GitHub|[Project page](https://github.com/FireFlyVDR/vdr-plugin-systeminfo)|
