@@ -11,7 +11,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |ac3mode|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-ac3mode)|
 |autostart|Active maintainer|✔|Private|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
 |bgprocess|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-bgprocess)|
-|burn|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-burn)|
+|burn|Active maintainer|✔|GitHub|[Project page](https://github.com/FireFlyVDR/vdr-plugin-burn)|
 |cdplayer|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|
 |cecremote|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/cec.en.shtml)|
 |chanman|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-chanman)|
@@ -34,7 +34,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |epgborder|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/vdr-plugin-epgborder)|
 |epgfixer|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epgfixer)|
 |epgsearch|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/git/vdr-plugin-epgsearch.git)|
-|epgsync|Unknown|✔|TBD|TBD|
+|epgsync|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-epgsync)|
 |externalplayer|Active maintainer|✔|Private|[Project page](https://www.uli-eckhardt.de/vdr/external.en.shtml)|
 |extrecmenu(ng)|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/extrecmenung)|
 |favorites|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-favorites)|
@@ -59,7 +59,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |noepg|Unknown|✔|TBD|TBD|
 |osd2web|Active maintainer|✔|GitHub|[Project page](https://github.com/horchi/vdr-plugin-osd2web)|
 |osdteletext|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-osdteletext)|
-|peer|Unmaintained|✔|TBD|TBD|
+|peer|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-peer)|
 |play|Unknown|✔|TBD|TBD|
 |plex|Unknown|✔|TBD|TBD|
 |pulsecontrol|Unknown|✔|TBD|TBD|
@@ -67,15 +67,15 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |recsearch|Unknown|✔|TBD|TBD|
 |reelbox|Active maintainer|✔|GitHub|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|
 |remote|Unknown|✔|TBD|TBD|
-|remoteosd|Unknown|✔|TBD|TBD|
-|remotetimers|Unmaintained|✗|TBD|TBD|
+|remoteosd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-remoteosd)|
+|remotetimers|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-remotetimers)|
 |restfulapi|Unknown|✔|TBD|TBD|
 |rpihddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/reufer/rpihddevice)|
 |rssreader|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|
 |satip|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-satip)|
 |scraper2vdr|Unknown|✔|TBD|TBD|
 |skindesigner|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/skindesigner)|
-|skinelchihd|Active maintainer|✔|Private|[Project page](http://firefly.vdr-developer.org/skinelchihd/index.html)|
+|skinelchihd|Active maintainer|✔|GitHub|[Project page](https://github.com/FireFlyVDR/vdr-plugin-skinelchihd)|
 |skinenigmang|Unknown|✔|TBD|TBD|
 |skinflat|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-skinflat)|
 |skinflatplus|Active maintainer|✔|GitHub|[Project page](https://github.com/MegaV0lt/vdr-plugin-skinflatplus)|
@@ -86,11 +86,11 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |sleeptimer|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-sleeptimer)|
 |softhdcuvid|Active maintainer|✔|GitHub|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)|
 |softhddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|
-|streamdev|Unknown|✔|TBD|TBD|
+|streamdev|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-streamdev)|
 |suspendoutput|Active maintainer|✔|Private|[Project page](http://phivdr.dyndns.org/vdr/vdr-suspendoutput/)|
-|svdrposd|Unknown|✔|TBD|TBD|
-|svdrpservice|Unknown|✔|TBD|TBD|
-|systeminfo|Unknown|✔|TBD|TBD|
+|svdrposd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrposd)|
+|svdrpservice|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrpservice)|
+|systeminfo|Active maintainer|✔|GitHub|[Project page](https://github.com/FireFlyVDR/vdr-plugin-systeminfo)|
 |targavfd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-targavfd)|
 |text2skin|Unknown|✔|TBD|TBD|
 |trayopenng|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/trayopenng.en.shtml)|
