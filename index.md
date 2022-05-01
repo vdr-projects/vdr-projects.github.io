@@ -101,7 +101,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |upnp|Unmaintained|✗|TBD|TBD|
 |vdrmanager|Unknown|✔|TBD|TBD|
 |vdrtva|Unknown|✔|TBD|TBD|
-|vnsiserver|Active maintainer|✔|GitHub|[Project page](https://github.com/mdre77/vdr-plugin-vnsiserver)|
+|vnsiserver|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-vnsiserver)|
 |vompserver|Unknown|✔|TBD|TBD|
 |weatherforecast|Unknown|✔|TBD|TBD|
 |weatherng|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherng)|
