@@ -4,7 +4,9 @@
 
 This page is meant to provide an overview about where which VDR plugin is currently maintained or if it is maintained at all. Additionally the "vdr-projects" GitHub organization can provide repositories for projects that are related to VDR.
 
-### Overview of known, still used, VDR plugins
+### Overview of plugins, addons and other VDR related projects
+
+#### VDR plugins
 
 |Plugin name|Maintenance status|Working?|Hosting platform|Project page|
 |--|--|--|
@@ -43,6 +45,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |fritzbox|Active maintainer|✔|GitHub|[Project page](https://github.com/jowi24/vdr-fritz)|
 |gamepad|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-gamepad)|
 |graphlcd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-graphlcd)|
+|hbbtv|Active maintainer|✔|GitHub|[Project page](https://github.com/Zabrimus/vdr-plugin-hbbtv)|
 |hddarchive|Unmaintained|✗|TBD|TBD|
 |image|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-image)|
 |imonlcd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-imonlcd)|
@@ -111,6 +114,13 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |zaphistory|Unknown|✔|TBD|TBD|
 |zappilot|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-zappilot)|
 
+#### Addons/Tools/Libraries
+
+|Plugin name|Maintenance status|Working?|Hosting platform|Project page|
+|--|--|--|
+|graphlcd-base|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/graphlcd-base)|
+|vdrpbd|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/vdrpbd)|
+|vdr-osr-browser|Active maintainer|✔|GitHub|[Project page](https://github.com/Zabrimus/vdr-osr-browser)|
 
 ### How does "Community maintenance" work?
 
