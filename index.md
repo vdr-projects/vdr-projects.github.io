@@ -76,7 +76,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |rpihddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/reufer/rpihddevice)|
 |rssreader|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|
 |satip|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-satip)|
-|scraper2vdr|Unknown|✔|TBD|TBD|
+|scraper2vdr|Active maintainer|✔|GitHub|[Project page](https://github.com/horchi/scraper2vdr)|
 |skindesigner|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/skindesigner)|
 |skinelchihd|Active maintainer|✔|GitHub|[Project page](https://github.com/FireFlyVDR/vdr-plugin-skinelchihd)|
 |skinenigmang|Unknown|✔|TBD|TBD|
