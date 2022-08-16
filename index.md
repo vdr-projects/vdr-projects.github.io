@@ -48,12 +48,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |hbbtv|Active maintainer|✔|GitHub|[Project page](https://github.com/Zabrimus/vdr-plugin-hbbtv)|
 |hddarchive|Unmaintained|✗|TBD|TBD|
 |history|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-history)|
-<!--
-  Note: https://github.com/ua0lnj is active contributor to the image-plugin but
-  not plugin maintainer (stays "Community maintained").
-  https://github.com/vdr-projects/vdr-plugin-image/issues/1#issuecomment-1200418878
--->
-|image|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-image)|
+|image|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-image/issues/1#issuecomment-1200418878)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-image)|
 |imonlcd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-imonlcd)|
 |iptv|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-iptv)|
 |lcdproc|Unknown|✔|TBD|TBD|
