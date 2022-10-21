@@ -32,7 +32,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |dvd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-dvd)|
 |dynamite|Active maintainer|✔|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-dynamite)|
 |eepg|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-eepg)|
-|epg2vdr|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-epg2vdr)|
+|epg2vdr|Active maintainer|✔|GitHub|[Project page](https://github.com/horchi/vdr-plugin-epg2vdr)|
 |epgborder|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/vdr-plugin-epgborder)|
 |epgfixer|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-epgfixer)|
 |epgsearch|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-epgsearch)|
@@ -122,6 +122,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |graphlcd-base|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/graphlcd-base)|
 |fiveten59/Logos|Active maintainer|✔|GitHub|[Project page](https://github.com/fiveten59/Logos)|
 |Picons2VDR|Active maintainer|✔|GitHub|[Project page](https://github.com/MegaV0lt/Picons2VDR)|
+|vdr-epg-daemon|✔|GitHub|[Project page](https://github.com/horchi/vdr-epg-daemon)|
 |vdrpbd|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/vdrpbd)|
 |vdr-osr-browser|Active maintainer|✔|GitHub|[Project page](https://github.com/Zabrimus/vdr-osr-browser)|
 
