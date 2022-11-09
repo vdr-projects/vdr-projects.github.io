@@ -132,7 +132,7 @@ As an alternative to scattered patches all over the internet, once a project is 
 
 Having a repository in context of the "vdr-projects" organization, where still someone can react to requests, allows to keep the plugin at least working with newer VDR versions based on community contributions. It provides an "active target" to point Pull-Requests to without someone needing to take responsibility for the whole project.
 
-If a developer officially announces that he stops maintaining his project, then a repository below "vdr-projects" may be created earlier if noone decides to continue developing it somewhere else.
+If a developer officially announces that he stops maintaining his project, then a repository below "vdr-projects" may be created earlier if no one decides to continue developing it somewhere else.
 
 
 ### What if I want to take over a currently unmaintained project?
