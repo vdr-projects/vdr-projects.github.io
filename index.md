@@ -80,7 +80,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |scraper2vdr|Active maintainer|✔|GitHub|[Project page](https://github.com/horchi/scraper2vdr)|
 |skindesigner|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/skindesigner)|
 |skinelchihd|Active maintainer|✔|GitHub|[Project page](https://github.com/FireFlyVDR/vdr-plugin-skinelchihd)|
-|skinenigmang|Unknown|✔|TBD|TBD|
+|skinenigmang|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-skinenigmang)|
 |skinflat|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-skinflat)|
 |skinflatplus|Active maintainer|✔|GitHub|[Project page](https://github.com/MegaV0lt/vdr-plugin-skinflatplus)|
 |skinlcarsng|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/skinlcarsng)|
