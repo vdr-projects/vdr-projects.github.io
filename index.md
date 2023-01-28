@@ -27,7 +27,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |devstatus|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/devstatus)|
 |dfatmo|Active maintainer|✔|GitHub|[Project page](https://github.com/durchflieger/dfatmo)|
 |dummydevice|Active maintainer|✔|Private|[Project page](http://phivdr.dyndns.org/vdr/vdr-dummydevice/)|
-|duplicates|Active maintainer|✔|VDR-Developer|[Project page](https://projects.vdr-developer.org/projects/plg-duplicates)|
+|duplicates|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-duplicates)|
 |dvbapi|Active maintainer|✔|GitHub|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|
 |dvd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-dvd)|
 |dynamite|Active maintainer|✔|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-dynamite)|
