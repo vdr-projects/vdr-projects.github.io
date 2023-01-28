@@ -67,6 +67,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |play|Unknown|✔|TBD|TBD|
 |plex|Unknown|✔|TBD|TBD|
 |pulsecontrol|Unknown|✔|TBD|TBD|
+|pvr350|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/15#issuecomment-1407390635)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-pvr350)|
 |radio|Unknown|✔|TBD|TBD|
 |recsearch|Unknown|✔|TBD|TBD|
 |reelbox|Active maintainer|✔|GitHub|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|
