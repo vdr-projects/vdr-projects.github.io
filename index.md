@@ -120,7 +120,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 
 |Plugin name|Maintenance status|Working?|Hosting platform|Project page|
 |--|--|--|
-|vdradmin-am|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/vdradmin-am)|
+|vdradmin-am|Active maintainer[*](https://github.com/vdr-projects/vdradmin-am/issues/1#issuecomment-1424003723)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdradmin-am)|
 |graphlcd-base|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/graphlcd-base)|
 |fiveten59/Logos|Active maintainer|✔|GitHub|[Project page](https://github.com/fiveten59/Logos)|
 |Picons2VDR|Active maintainer|✔|GitHub|[Project page](https://github.com/MegaV0lt/Picons2VDR)|
