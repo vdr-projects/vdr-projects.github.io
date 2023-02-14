@@ -29,6 +29,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |dummydevice|Active maintainer|✔|Private|[Project page](http://phivdr.dyndns.org/vdr/vdr-dummydevice/)|
 |duplicates|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-duplicates)|
 |dvbapi|Active maintainer|✔|GitHub|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|
+|dvbsddevice|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-dvbsddevice)|
 |dvd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-dvd)|
 |dynamite|Active maintainer|✔|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-dynamite)|
 |eepg|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-eepg)|
