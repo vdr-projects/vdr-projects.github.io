@@ -36,7 +36,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |epgborder|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/vdr-plugin-epgborder)|
 |epgfixer|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-epgfixer)|
 |epgsearch|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-epgsearch)|
-|epgsync|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-epgsync)|
+|epgsync|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-epgsync)|
 |externalplayer|Active maintainer|✔|Private|[Project page](https://www.uli-eckhardt.de/vdr/external.en.shtml)|
 |extrecmenu(ng)|Active maintainer|✔|GitLab|[Project page](https://gitlab.com/kamel5/extrecmenung)|
 |favorites|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-favorites)|
@@ -55,7 +55,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |live|Active maintainer|✔|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-live)|
 |loadepg|Unmaintained|✗|TBD|TBD|
 |markad|Active maintainer|✔|GitHub|[Project page](https://github.com/kfb77/vdr-plugin-markad)|
-|mcli|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|
+|mcli|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-mcli/pull/1#issuecomment-765527863)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|
 |mp3|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)|
 |mplayer|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)|
 |mpv|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)|
@@ -63,7 +63,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |noepg|Unknown|✔|TBD|TBD|
 |osd2web|Active maintainer|✔|GitHub|[Project page](https://github.com/horchi/vdr-plugin-osd2web)|
 |osdteletext|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-osdteletext)|
-|peer|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-peer)|
+|peer|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-peer)|
 |play|Unknown|✔|TBD|TBD|
 |plex|Unknown|✔|TBD|TBD|
 |pulsecontrol|Unknown|✔|TBD|TBD|
@@ -72,8 +72,8 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |recsearch|Unknown|✔|TBD|TBD|
 |reelbox|Active maintainer|✔|GitHub|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|
 |remote|Unknown|✔|TBD|TBD|
-|remoteosd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-remoteosd)|
-|remotetimers|Community maintained|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-remotetimers)|
+|remoteosd|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-remoteosd)|
+|remotetimers|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✗|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-remotetimers)|
 |restfulapi|Unknown|✔|TBD|TBD|
 |rpihddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/reufer/rpihddevice)|
 |rssreader|Active maintainer|✔|GitHub|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|
@@ -93,8 +93,8 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |softhddevice|Active maintainer|✔|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|
 |streamdev|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-streamdev)|
 |suspendoutput|Active maintainer|✔|Private|[Project page](http://phivdr.dyndns.org/vdr/vdr-suspendoutput/)|
-|svdrposd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrposd)|
-|svdrpservice|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrpservice)|
+|svdrposd|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrposd)|
+|svdrpservice|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrpservice)|
 |systeminfo|Active maintainer|✔|GitHub|[Project page](https://github.com/FireFlyVDR/vdr-plugin-systeminfo)|
 |targavfd|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-targavfd)|
 |text2skin|Unknown|✔|TBD|TBD|
