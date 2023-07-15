@@ -18,7 +18,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |cecremote|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/cec.en.shtml)|
 |chanman|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-chanman)|
 |channellists|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-channellists)|
-|channelscan|Active maintainer|✔|Bitbucket|[Project page](https://bitbucket.org/ua0lnj/channelscan/src/master/)|
+|channelscan|Active maintainer|✔|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-channelscan)|
 |cinebars|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-cinebars)|
 |clock|Active maintainer|✔|GitHub|[Project page](https://github.com/madmartin/vdr-clock)|
 |control|Active maintainer|✔|GitHub|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-control)|
