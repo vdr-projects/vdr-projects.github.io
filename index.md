@@ -125,7 +125,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vdradmin-am|Active maintainer[*](https://github.com/vdr-projects/vdradmin-am/issues/1#issuecomment-1424003723)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdradmin-am)||
 |graphlcd-base|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/graphlcd-base)||
 |fiveten59/Logos|Active maintainer|✔|GitHub|[Project page](https://github.com/fiveten59/Logos)||
-|libnetceiver|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/libnetceiver)||
+|libnetceiver|Active maintainer|✔|GitHub|[Project page](https://github.com/vdr-projects/libnetceiver)|[Documentation](https://github.com/vdr-projects/libnetceiver/wiki)|
 |Picons2VDR|Active maintainer|✔|GitHub|[Project page](https://github.com/MegaV0lt/Picons2VDR)||
 |vdr-epg-daemon|Active maintainer|✔|GitHub|[Project page](https://github.com/horchi/vdr-epg-daemon)||
 |vdrpbd|Active maintainer|✔|GitHub|[Project page](https://github.com/M-Reimer/vdrpbd)||
