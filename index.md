@@ -13,12 +13,12 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |ac3mode|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-ac3mode)|[Documentation](https://github.com/vdr-projects/vdr-plugin-ac3mode/wiki)
 |autostart|Active maintainer|✔|Private|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|[Documentation](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
 |bgprocess|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-bgprocess)|[Documentation](https://github.com/vdr-projects/vdr-plugin-bgprocess/wiki)|
-|burn|Active maintainer|✔|GitHub|[Project page](https://github.com/FireFlyVDR/vdr-plugin-burn)|[Documentation](https://github.com/FireFlyVDR/vdr-plugin-burn)|
+|burn|Active maintainer|✔|GitHub|[Project page](https://github.com/FireFlyVDR/vdr-plugin-burn)|[Documentation](https://raw.githubusercontent.com/FireFlyVDR/vdr-plugin-burn/main/README)|
 |cdplayer|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|[Documentation](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|
 |cecremote|Active maintainer|✔|Private|[Project page](https://uli-eckhardt.de/vdr/cec.en.shtml)|[Documentation](https://uli-eckhardt.de/vdr/cec.en.shtml)|
-|chanman|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-chanman)||
-|channellists|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-channellists)||
-|channelscan|Active maintainer|✔|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-channelscan)||
+|chanman|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-chanman)|[Documentation](https://github.com/vdr-projects/vdr-plugin-chanman/wiki)|
+|channellists|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-channellists)|[Documentation](https://github.com/vdr-projects/vdr-plugin-channellists/wiki)|
+|channelscan|Active maintainer|✔|GitHub|[Project page](https://github.com/ua0lnj/vdr-plugin-channelscan)|[Documentation](https://raw.githubusercontent.com/ua0lnj/vdr-plugin-channelscan/master/README)|
 |cinebars|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-cinebars)||
 |clock|Active maintainer|✔|GitHub|[Project page](https://github.com/madmartin/vdr-clock)||
 |control|Active maintainer|✔|GitHub|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-control)||
