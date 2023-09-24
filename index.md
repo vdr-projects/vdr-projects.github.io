@@ -56,7 +56,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |live|Active maintainer|✔|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-live)||
 |loadepg|Unmaintained|✗|TBD|TBD||
 |markad|Active maintainer|✔|GitHub|[Project page](https://github.com/kfb77/vdr-plugin-markad)||
-|mcli|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-mcli/pull/1#issuecomment-765527863)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)||
+|mcli|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-mcli/pull/1#issuecomment-765527863)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|[Documentation](https://github.com/kfb77/vdr-plugin-markad/wiki)|
 |mp3|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)||
 |mplayer|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)||
 |mpv|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)||
