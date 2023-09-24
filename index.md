@@ -55,8 +55,8 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |lcdproc|Unknown|✔|TBD|TBD||
 |live|Active maintainer|✔|GitHub|[Project page](https://github.com/MarkusEh/vdr-plugin-live)||
 |loadepg|Unmaintained|✗|TBD|TBD||
-|markad|Active maintainer|✔|GitHub|[Project page](https://github.com/kfb77/vdr-plugin-markad)||
-|mcli|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-mcli/pull/1#issuecomment-765527863)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|[Documentation](https://github.com/kfb77/vdr-plugin-markad/wiki)|
+|markad|Active maintainer|✔|GitHub|[Project page](https://github.com/kfb77/vdr-plugin-markad)|[Documentation](https://github.com/kfb77/vdr-plugin-markad/wiki)|
+|mcli|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-mcli/pull/1#issuecomment-765527863)|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mcli/blob/master/README)|
 |mp3|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)||
 |mplayer|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)||
 |mpv|Community maintained|✔|GitHub|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)||
