@@ -3,14 +3,14 @@
 
 @import "{{ site.theme }}";
 
-table a[href^='https://gitlab.com'] {
+table td:nth-child(4) a[href^='https://gitlab.com'] {
   background-image: url('../images/gitlab-logo.svg');
   background-size: 16px;
   background-repeat: no-repeat;
   padding-left: 20px;
 }
 
-table a[href^='https://github.com'] {
+table td:nth-child(4) a[href^='https://github.com'] {
   background-image: url("../images/blacktocat.png");
   background-size: 16px;
   background-repeat: no-repeat;
