@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
-a {
-    text-decoration: none;
+a[href^='https://gitlab.com'] {
+  background-image: url('../images/gitlab-logo.svg');
+  background-size: 16px;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+}
+
+a[href^='https://github.com'] {
+  background-image: url("../images/blacktocat.png");
+  background-size: 16px;
+  background-repeat: no-repeat;
+  padding-left: 20px;
 }
