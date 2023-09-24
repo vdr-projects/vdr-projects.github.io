@@ -1,9 +1,7 @@
+---
+---
 
-a {
-    color: blue;
-}
-
-
+@import "{{ site.theme }}";
 
 a {
     text-decoration: none;
