@@ -75,7 +75,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |remote|Unknown|✔|[Project page](http://www.escape-edv.de/endriss/vdr/)|[Documentation](http://www.escape-edv.de/endriss/vdr/README)|
 |remoteosd|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-remoteosd)||
 |remotetimers|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-remotetimers)||
-|restfulapi|Active maintainer|✔|https://github.com/yavdr/vdr-plugin-restfulapi||
+|restfulapi|Active maintainer|✔|[Project page](https://github.com/yavdr/vdr-plugin-restfulapi)||
 |rpihddevice|Active maintainer|✔|[Project page](https://github.com/reufer/rpihddevice)||
 |rssreader|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)||
 |satip|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-satip)||
