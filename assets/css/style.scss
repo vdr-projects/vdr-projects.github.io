@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+/* Improve readability of the table with alternating background color */
+table tr:nth-child(2n) {
+  background-color: #ffffff09;
+}
+
+/* Add platform icons to project page links */
 table td:nth-child(4) a[href^='https://gitlab.com'] {
   background-image: url('../images/gitlab-logo.svg');
   background-size: 16px;
