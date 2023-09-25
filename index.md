@@ -47,28 +47,28 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |gamepad|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-gamepad)||
 |graphlcd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-graphlcd)||
 |hbbtv|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-plugin-hbbtv)||
-|hddarchive|Unmaintained|✗|TBD||
+|hddarchive|Community maintained|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-hddarchive)|[Documentation](https://github.com/vdr-projects/vdr-plugin-hddarchive/blob/master/README)|
 |history|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-history)||
 |image|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-image/issues/1#issuecomment-1200418878)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-image)||
 |imonlcd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-imonlcd)||
 |iptv|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-iptv)||
-|lcdproc|Unknown|✔|TBD||
+|lcdproc|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-lcdproc)|[Documentation](https://github.com/vdr-projects/vdr-plugin-lcdproc/blob/master/README)|
 |live|Active maintainer|✔|[Project page](https://github.com/MarkusEh/vdr-plugin-live)||
-|loadepg|Unmaintained|✗|TBD||
+|loadepg|Unmaintained|✗|[Project page](http://lukkinosat.altervista.org/)|[Documentation](http://lukkinosat.altervista.org/)|
 |markad|Active maintainer|✔|[Project page](https://github.com/kfb77/vdr-plugin-markad)|[Documentation](https://github.com/kfb77/vdr-plugin-markad/wiki)|
 |mcli|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-mcli/pull/1#issuecomment-765527863)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mcli/blob/master/README)|
 |mp3|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)||
 |mplayer|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)||
 |mpv|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)||
-|neutrinoepg|Unknown|✔|TBD||
-|noepg|Unknown|✔|TBD||
+|neutrinoepg|Unknown|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-neutrinoepg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-neutrinoepg/blob/master/README)|
+|noepg|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-noepg)|[Documentation](https://github.com/flensrocker/vdr-plugin-noepg/blob/master/README)|
 |osd2web|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-plugin-osd2web)||
 |osdteletext|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-osdteletext)||
 |peer|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-peer)||
-|play|Unknown|✔|TBD||
-|plex|Unknown|✔|TBD||
-|pulsecontrol|Unknown|✔|TBD||
-|pvr350|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/15#issuecomment-1407390635)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvr350)||
+|play|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-play)|[Documentation](https://github.com/vdr-projects/vdr-plugin-play/blob/master/README.txt)|
+|plex|Unknown|✔|[Project page](https://github.com/chriszero/vdr-plugin-plex)|[Documentation](https://github.com/chriszero/vdr-plugin-plex/blob/master/README.md)|
+|pulsecontrol|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-pulsecontrol)|[Documentation](https://github.com/flensrocker/vdr-plugin-pulsecontrol/blob/master/README)|
+|pvr350|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/15#issuecomment-1407390635)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvr350)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvr350/blob/master/README)|
 |radio|Unknown|✔|TBD||
 |recsearch|Unknown|✔|TBD||
 |reelbox|Active maintainer|✔|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)||
