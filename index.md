@@ -69,13 +69,13 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |plex|Unknown|✔|[Project page](https://github.com/chriszero/vdr-plugin-plex)|[Documentation](https://github.com/chriszero/vdr-plugin-plex/blob/master/README.md)|
 |pulsecontrol|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-pulsecontrol)|[Documentation](https://github.com/flensrocker/vdr-plugin-pulsecontrol/blob/master/README)|
 |pvr350|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/15#issuecomment-1407390635)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvr350)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvr350/blob/master/README)|
-|radio|Unknown|✔|TBD||
-|recsearch|Unknown|✔|TBD||
-|reelbox|Active maintainer|✔|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)||
-|remote|Unknown|✔|TBD||
+|radio|Unknown|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-radio)|[Documentation](https://github.com/vdr-projects/vdr-plugin-radio/blob/master/README)|
+|recsearch|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-recsearch)|[Documentation](https://github.com/flensrocker/vdr-plugin-recsearch/blob/master/README)|
+|reelbox|Active maintainer|✔|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|[Documentation](https://github.com/pbiering/vdr-plugin-reelbox/wiki)|
+|remote|Unknown|✔|[Project page](http://www.escape-edv.de/endriss/vdr/)|[Documentation](http://www.escape-edv.de/endriss/vdr/README)|
 |remoteosd|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-remoteosd)||
 |remotetimers|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-remotetimers)||
-|restfulapi|Unknown|✔|TBD||
+|restfulapi|Active maintainer|✔|https://github.com/yavdr/vdr-plugin-restfulapi||
 |rpihddevice|Active maintainer|✔|[Project page](https://github.com/reufer/rpihddevice)||
 |rssreader|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)||
 |satip|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-satip)||
@@ -87,7 +87,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |skinflatplus|Active maintainer|✔|[Project page](https://github.com/MegaV0lt/vdr-plugin-skinflatplus)||
 |skinlcarsng|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/skinlcarsng)||
 |skinnopacity|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/SkinNopacity)||
-|skinpearlhd|Unmaintained|✗|TBD||
+|skinpearlhd|Community maintained|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-skinpearlhd)||
 |skinsoppalusikka|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-skinsoppalusikka)||
 |sleeptimer|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-sleeptimer)||
 |softhdcuvid|Active maintainer|✔|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)||
