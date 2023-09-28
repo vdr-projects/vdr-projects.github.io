@@ -130,6 +130,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vdr-epg-daemon|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-epg-daemon)|[Documentation](https://github.com/horchi/vdr-epg-daemon/blob/master/README)|
 |vdrpbd|Active maintainer|✔|[Project page](https://github.com/M-Reimer/vdrpbd)|[Documentation](https://github.com/M-Reimer/vdrpbd/blob/master/README)|
 |vdr-osr-browser|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-osr-browser)|[Documentation](https://github.com/Zabrimus/vdr-osr-browser/blob/master/README.md)|
+|vdr-transcode|Active maintainer|✔|[Project page](https://github.com/jsffm/vdr-transcode)|[Documentation](https://github.com/jsffm/vdr-transcode/wiki)|
 
 ### How does "Community maintenance" work?
 
