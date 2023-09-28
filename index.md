@@ -110,26 +110,26 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vdrtva|Unknown|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-vdrtva)|[Documentation](https://github.com/vdr-projects/vdr-plugin-vdrtva/blob/master/README)|
 |vnsiserver|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-vnsiserver)|[Documentation](https://github.com/vdr-projects/vdr-plugin-vnsiserver/blob/master/README)|
 |vompserver|Unknown|✔|[Project page](https://www.vomp.tv/vomp.php)|[Documentation](https://www.vomp.tv/vomp.php)|
-|weatherforecast|Unknown|✔|TBD||
-|weatherng|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherng)||
-|wirbelscan|Active maintainer|✔|[Project page](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)||
-|xineliboutput|Active maintainer|✔|[Project page](https://sourceforge.net/projects/xineliboutput/)||
-|xmltv2vdr|Unknown|✔|TBD||
-|zaphistory|Unknown|✔|TBD||
-|zappilot|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-zappilot)||
+|weatherforecast|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherforecast)|[Documentation](https://github.com/vdr-projects/vdr-plugin-weatherforecast/blob/master/README)|
+|weatherng|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherng)|[Documentation](https://github.com/vdr-projects/vdr-plugin-weatherng/blob/master/README)|
+|wirbelscan|Active maintainer|✔|[Project page](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|[Documentation](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|
+|xineliboutput|Active maintainer|✔|[Project page](https://sourceforge.net/projects/xineliboutput/)|[Documentation](https://sourceforge.net/p/xineliboutput/git/ci/master/tree/README)|
+|xmltv2vdr|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-xmltv2vdr)|[Documentation](https://github.com/vdr-projects/vdr-plugin-xmltv2vdr/blob/master/README)|
+|zaphistory|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-zaphistory)|[Documentation](https://github.com/vdr-projects/vdr-plugin-zaphistory/blob/master/README)|
+|zappilot|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-zappilot)|[Documentation](https://github.com/vdr-projects/vdr-plugin-zappilot/blob/master/README)|
 
 #### Addons/Tools/Libraries
 
-|Plugin name|Maintenance status|Working?|Project page|Documentation|
+|Project name|Maintenance status|Working?|Project page|Documentation|
 |--|--|--|--|
-|vdradmin-am|Active maintainer[*](https://github.com/vdr-projects/vdradmin-am/issues/1#issuecomment-1424003723)|✔|[Project page](https://github.com/vdr-projects/vdradmin-am)||
-|graphlcd-base|Active maintainer|✔|[Project page](https://github.com/M-Reimer/graphlcd-base)||
-|fiveten59/Logos|Active maintainer|✔|[Project page](https://github.com/fiveten59/Logos)||
+|vdradmin-am|Active maintainer[*](https://github.com/vdr-projects/vdradmin-am/issues/1#issuecomment-1424003723)|✔|[Project page](https://github.com/vdr-projects/vdradmin-am)|[Documentation](https://github.com/vdr-projects/vdradmin-am/wiki)|
+|graphlcd-base|Active maintainer|✔|[Project page](https://github.com/M-Reimer/graphlcd-base)|[Documentation](https://github.com/M-Reimer/graphlcd-base/blob/master/README)|
+|fiveten59/Logos|Active maintainer|✔|[Project page](https://github.com/fiveten59/Logos)|Documentation|
 |libnetceiver|Active maintainer|✔|[Project page](https://github.com/vdr-projects/libnetceiver)|[Documentation](https://github.com/vdr-projects/libnetceiver/wiki)|
-|Picons2VDR|Active maintainer|✔|[Project page](https://github.com/MegaV0lt/Picons2VDR)||
-|vdr-epg-daemon|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-epg-daemon)||
-|vdrpbd|Active maintainer|✔|[Project page](https://github.com/M-Reimer/vdrpbd)||
-|vdr-osr-browser|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-osr-browser)||
+|Picons2VDR|Active maintainer|✔|[Project page](https://github.com/MegaV0lt/Picons2VDR)|[Documentation](https://github.com/MegaV0lt/Picons2VDR/blob/main/README.md)|
+|vdr-epg-daemon|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-epg-daemon)|[Documentation](https://github.com/horchi/vdr-epg-daemon/blob/master/README)|
+|vdrpbd|Active maintainer|✔|[Project page](https://github.com/M-Reimer/vdrpbd)|[Documentation](https://github.com/M-Reimer/vdrpbd/blob/master/README)|
+|vdr-osr-browser|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-osr-browser)|[Documentation](https://github.com/Zabrimus/vdr-osr-browser/blob/master/README.md)|
 
 ### How does "Community maintenance" work?
 
