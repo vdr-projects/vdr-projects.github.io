@@ -91,7 +91,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |skinsoppalusikka|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-skinsoppalusikka)|[Documentation](https://github.com/rofafor/vdr-plugin-skinsoppalusikka/blob/master/README)|
 |sleeptimer|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-sleeptimer)|[Documentation](https://github.com/vdr-projects/vdr-plugin-sleeptimer/blob/master/README)|
 |softhdcuvid|Active maintainer|✔|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)|[Documentation](https://github.com/jojo61/vdr-plugin-softhdcuvid/blob/master/README.md)|
-|softhddevice|Active maintainer|✔|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|[Documentation](https://github.com/ua0lnj/vdr-plugin-softhddevice/blob/vdpau%2Bvaapi%2Bcuvid/README.txt)|
+|softhddevice|Active maintainer|✔|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|[Documentation](https://github.com/ua0lnj/vdr-plugin-softhddevice/blob/latest/README.txt)|
 |softhddevice-drm-gles|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/19)|✔|[Project page](https://github.com/rellla/vdr-plugin-softhddevice-drm-gles)|[Documentation](https://github.com/rellla/vdr-plugin-softhddevice-drm-gles/blob/drm-atomic-gles/README)|
 |streamdev|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-streamdev)|[Documentation](https://github.com/vdr-projects/vdr-plugin-streamdev/blob/master/README)|
 |suspendoutput|Active maintainer|✔|[Project page](http://phivdr.dyndns.org/vdr/vdr-suspendoutput/)|[Documentation](https://phivdr.dyndns.org/vdr/vdr-suspendoutput/README)|
