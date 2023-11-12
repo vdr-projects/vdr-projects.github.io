@@ -69,6 +69,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |plex|Unknown|✔|[Project page](https://github.com/chriszero/vdr-plugin-plex)|[Documentation](https://github.com/chriszero/vdr-plugin-plex/blob/master/README.md)|
 |pulsecontrol|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-pulsecontrol)|[Documentation](https://github.com/flensrocker/vdr-plugin-pulsecontrol/blob/master/README)|
 |pvr350|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/15#issuecomment-1407390635)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvr350)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvr350/blob/master/README)|
+|pvrinput|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvrinput)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvrinput/blob/master/README)|
 |radio|Unknown|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-radio)|[Documentation](https://github.com/vdr-projects/vdr-plugin-radio/blob/master/README)|
 |recsearch|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-recsearch)|[Documentation](https://github.com/flensrocker/vdr-plugin-recsearch/blob/master/README)|
 |reelbox|Active maintainer|✔|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|[Documentation](https://github.com/pbiering/vdr-plugin-reelbox/wiki)|
