@@ -89,6 +89,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |skinlcarsng|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/skinlcarsng)|[Documentation](https://gitlab.com/kamel5/skinlcarsng/-/blob/master/README)|
 |skinnopacity|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/SkinNopacity)|[Documentation](https://gitlab.com/kamel5/SkinNopacity/-/wikis/home)|
 |skinpearlhd|Community maintained|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-skinpearlhd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-skinpearlhd/blob/master/README)|
+|skinsimple|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/skinsimple)|[Documentation](https://gitlab.com/kamel5/skinsimple/-/blob/master/README)|
 |skinsoppalusikka|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-skinsoppalusikka)|[Documentation](https://github.com/rofafor/vdr-plugin-skinsoppalusikka/blob/master/README)|
 |sleeptimer|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-sleeptimer)|[Documentation](https://github.com/vdr-projects/vdr-plugin-sleeptimer/blob/master/README)|
 |softhdcuvid|Active maintainer|✔|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)|[Documentation](https://github.com/jojo61/vdr-plugin-softhdcuvid/blob/master/README.md)|
