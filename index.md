@@ -13,6 +13,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |ac3mode|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-ac3mode)|[Documentation](https://github.com/vdr-projects/vdr-plugin-ac3mode/wiki)
 |autostart|Active maintainer|✔|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|[Documentation](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
 |bgprocess|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-bgprocess)|[Documentation](https://github.com/vdr-projects/vdr-plugin-bgprocess/wiki)|
+|boblight|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-boblight)|[Documentation](https://github.com/vdr-projects/vdr-plugin-boblight/blob/master/README.md)|
 |burn|Active maintainer|✔|[Project page](https://github.com/FireFlyVDR/vdr-plugin-burn)|[Documentation](https://github.com/FireFlyVDR/vdr-plugin-burn/blob/main/README)|
 |cdplayer|Active maintainer|✔|[Project page](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|[Documentation](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|
 |cecremote|Active maintainer|✔|[Project page](https://uli-eckhardt.de/vdr/cec.en.shtml)|[Documentation](https://uli-eckhardt.de/vdr/cec.en.shtml)|
@@ -124,11 +125,12 @@ This page is meant to provide an overview about where which VDR plugin is curren
 
 |Project name|Maintenance status|Working?|Project page|Documentation|
 |--|--|--|--|
-|vdradmin-am|Active maintainer[*](https://github.com/vdr-projects/vdradmin-am/issues/1#issuecomment-1424003723)|✔|[Project page](https://github.com/vdr-projects/vdradmin-am)|[Documentation](https://github.com/vdr-projects/vdradmin-am/wiki)|
+|boblight|Community maintained|✔|[Project page](https://github.com/vdr-projects/boblight)|[Documentation](https://github.com/vdr-projects/boblight/wiki)|
 |graphlcd-base|Active maintainer|✔|[Project page](https://github.com/M-Reimer/graphlcd-base)|[Documentation](https://github.com/M-Reimer/graphlcd-base/blob/master/README)|
 |fiveten59/Logos|Active maintainer|✔|[Project page](https://github.com/fiveten59/Logos)|Documentation|
 |libnetceiver|Active maintainer|✔|[Project page](https://github.com/vdr-projects/libnetceiver)|[Documentation](https://github.com/vdr-projects/libnetceiver/wiki)|
 |Picons2VDR|Active maintainer|✔|[Project page](https://github.com/MegaV0lt/Picons2VDR)|[Documentation](https://github.com/MegaV0lt/Picons2VDR/blob/main/README.md)|
+|vdradmin-am|Active maintainer[*](https://github.com/vdr-projects/vdradmin-am/issues/1#issuecomment-1424003723)|✔|[Project page](https://github.com/vdr-projects/vdradmin-am)|[Documentation](https://github.com/vdr-projects/vdradmin-am/wiki)|
 |vdr-epg-daemon|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-epg-daemon)|[Documentation](https://github.com/horchi/vdr-epg-daemon/blob/master/README)|
 |vdrpbd|Active maintainer|✔|[Project page](https://github.com/M-Reimer/vdrpbd)|[Documentation](https://github.com/M-Reimer/vdrpbd/blob/master/README)|
 |vdr-osr-browser|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-osr-browser)|[Documentation](https://github.com/Zabrimus/vdr-osr-browser/blob/master/README.md)|
