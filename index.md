@@ -80,7 +80,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |restfulapi|Active maintainer|✔|[Project page](https://github.com/yavdr/vdr-plugin-restfulapi)|Documentation|
 |rpihddevice|Active maintainer|✔|[Project page](https://github.com/reufer/rpihddevice)|[Documentation](https://github.com/reufer/rpihddevice/blob/master/README)|
 |rssreader|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|[Documentation](https://github.com/rofafor/vdr-plugin-rssreader/blob/master/README)|
-|satip|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip/blob/master/README)|
+|satip|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip/blob/wirbel/README)|
 |scraper2vdr|Active maintainer|✔|[Project page](https://github.com/horchi/scraper2vdr)|[Documentation](https://github.com/horchi/scraper2vdr/blob/master/README)|
 |skindesigner|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/skindesigner)|[Documentation](https://gitlab.com/kamel5/skindesigner/-/wikis/home)|
 |skinelchihd|Active maintainer|✔|[Project page](https://github.com/FireFlyVDR/vdr-plugin-skinelchihd)|[Documentation](https://github.com/FireFlyVDR/vdr-plugin-skinelchihd/wiki)|
