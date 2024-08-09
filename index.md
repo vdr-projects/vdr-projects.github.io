@@ -52,7 +52,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |history|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-history)|[Documentation](https://github.com/vdr-projects/vdr-plugin-history/blob/master/README)|
 |image|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-image/issues/1#issuecomment-1200418878)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-image)|[Documentation](https://github.com/vdr-projects/vdr-plugin-image/blob/master/README)|
 |imonlcd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-imonlcd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-imonlcd/wiki)|
-|iptv|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-iptv)|[Documentation](https://github.com/rofafor/vdr-plugin-iptv/blob/master/README)|
+|iptv|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-plugin-iptv)|[Documentation](https://github.com/Zabrimus/vdr-plugin-iptv/blob/master/README)|
 |lcdproc|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-lcdproc)|[Documentation](https://github.com/vdr-projects/vdr-plugin-lcdproc/blob/master/README)|
 |live|Active maintainer|✔|[Project page](https://github.com/MarkusEh/vdr-plugin-live)|[Documentation](https://github.com/MarkusEh/vdr-plugin-live/wiki)|
 |loadepg|Unmaintained|✗|[Project page](http://lukkinosat.altervista.org/)|[Documentation](http://lukkinosat.altervista.org/)|
