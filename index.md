@@ -32,6 +32,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |dvbapi|Active maintainer|✔|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|[Documentation](https://github.com/manio/vdr-plugin-dvbapi/blob/master/README)|
 |dvbsddevice|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-dvbsddevice)|[Documentation](https://github.com/vdr-projects/vdr-plugin-dvbsddevice/blob/master/README)|
 |dvd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-dvd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-dvd/blob/master/README)|
+|dvdswitch|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-dvdswitch)|[Documentation](https://github.com/vdr-projects/vdr-plugin-dvdswitch/blob/master/README)|
 |dynamite|Active maintainer|✔|[Project page](https://github.com/MarkusEh/vdr-plugin-dynamite)|[Documentation](https://github.com/MarkusEh/vdr-plugin-dynamite/wiki)|
 |eepg|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-eepg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-eepg/blob/master/README)|
 |epg2vdr|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-plugin-epg2vdr)|[Documentation](https://github.com/horchi/vdr-plugin-epg2vdr/blob/master/README)|
