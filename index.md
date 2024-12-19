@@ -59,6 +59,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |loadepg|Unmaintained|✗|[Project page](http://lukkinosat.altervista.org/)|[Documentation](http://lukkinosat.altervista.org/)|
 |markad|Active maintainer|✔|[Project page](https://github.com/kfb77/vdr-plugin-markad)|[Documentation](https://github.com/kfb77/vdr-plugin-markad/wiki)|
 |mcli|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-mcli/pull/1#issuecomment-765527863)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mcli/blob/master/README)|
+|mlist|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mlist)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mlist/blob/master/README.md)|
 |mp3|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mp3/blob/master/README)|
 |mplayer|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mp3/blob/master/README)|
 |mpv|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mpv/blob/master/README)|
