@@ -134,6 +134,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |graphlcd-base|Active maintainer|✔|[Project page](https://github.com/M-Reimer/graphlcd-base)|[Documentation](https://github.com/M-Reimer/graphlcd-base/blob/master/README)|
 |fiveten59/Logos|Active maintainer|✔|[Project page](https://github.com/fiveten59/Logos)|Documentation|
 |libnetceiver|Active maintainer|✔|[Project page](https://github.com/vdr-projects/libnetceiver)|[Documentation](https://github.com/vdr-projects/libnetceiver/wiki)|
+|lircd2uinput|Active maintainer|✔|[Project page](https://github.com/seahawk1986/lircd2uinput)|[Documentation](https://github.com/seahawk1986/lircd2uinput/blob/master/README.md)|
 |Picons2VDR|Active maintainer|✔|[Project page](https://github.com/MegaV0lt/Picons2VDR)|[Documentation](https://github.com/MegaV0lt/Picons2VDR/blob/main/README.md)|
 |vdradmin-am|Active maintainer[*](https://github.com/vdr-projects/vdradmin-am/issues/1#issuecomment-1424003723)|✔|[Project page](https://github.com/vdr-projects/vdradmin-am)|[Documentation](https://github.com/vdr-projects/vdradmin-am/wiki)|
 |vdr-epg-daemon|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-epg-daemon)|[Documentation](https://github.com/horchi/vdr-epg-daemon/blob/master/README)|
