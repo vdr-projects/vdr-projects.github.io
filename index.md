@@ -128,7 +128,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 #### Addons/Tools/Libraries
 
 |Project name|Maintenance status|Working?|Project page|Documentation|
-|--|--|--|--|
+|--|--|--|--|--|
 |boblight|Community maintained|✔|[Project page](https://github.com/vdr-projects/boblight)|[Documentation](https://github.com/vdr-projects/boblight/wiki)|
 |graphlcd-base|Active maintainer|✔|[Project page](https://github.com/M-Reimer/graphlcd-base)|[Documentation](https://github.com/M-Reimer/graphlcd-base/blob/master/README)|
 |fiveten59/Logos|Active maintainer|✔|[Project page](https://github.com/fiveten59/Logos)|Documentation|
