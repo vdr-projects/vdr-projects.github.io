@@ -74,6 +74,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |pvr350|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/15#issuecomment-1407390635)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvr350)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvr350/blob/master/README)|
 |pvrinput|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvrinput)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvrinput/blob/master/README)|
 |radio|Unknown|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-radio)|[Documentation](https://github.com/vdr-projects/vdr-plugin-radio/blob/master/README)|
+|rcu|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-rcu)|[Documentation](https://github.com/vdr-projects/vdr-plugin-rcu/blob/master/README)|
 |recsearch|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-recsearch)|[Documentation](https://github.com/flensrocker/vdr-plugin-recsearch/blob/master/README)|
 |reelbox|Active maintainer|✔|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|[Documentation](https://github.com/pbiering/vdr-plugin-reelbox/wiki)|
 |remote|Unknown|✔|[Project page](http://www.escape-edv.de/endriss/vdr/)|[Documentation](http://www.escape-edv.de/endriss/vdr/README)|
@@ -141,6 +142,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vdrpbd|Active maintainer|✔|[Project page](https://github.com/M-Reimer/vdrpbd)|[Documentation](https://github.com/M-Reimer/vdrpbd/blob/master/README)|
 |vdr-osr-browser|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-osr-browser)|[Documentation](https://github.com/Zabrimus/vdr-osr-browser/blob/master/README.md)|
 |vdr-transcode|Active maintainer|✔|[Project page](https://github.com/jsffm/vdr-transcode)|[Documentation](https://github.com/jsffm/vdr-transcode/wiki)|
+|xxv|Community maintained|✔|[Project page](https://github.com/vdr-projects/xxv)|[Documentation](https://github.com/vdr-projects/xxv/blob/master/README)|
 
 ### How does "Community maintenance" work?
 
