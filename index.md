@@ -142,6 +142,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vdrpbd|Active maintainer|✔|[Project page](https://github.com/M-Reimer/vdrpbd)|[Documentation](https://github.com/M-Reimer/vdrpbd/blob/master/README)|
 |vdr-osr-browser|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-osr-browser)|[Documentation](https://github.com/Zabrimus/vdr-osr-browser/blob/master/README.md)|
 |vdr-transcode|Active maintainer|✔|[Project page](https://github.com/jsffm/vdr-transcode)|[Documentation](https://github.com/jsffm/vdr-transcode/wiki)|
+|vtuner-ng|Active maintainer|✔|[Project page](https://github.com/joed74/vtuner-ng|[Documentation](https://github.com/joed74/vtuner-ng/blob/master/README.md)|
 |xxv|Community maintained|✔|[Project page](https://github.com/vdr-projects/xxv)|[Documentation](https://github.com/vdr-projects/xxv/blob/master/README)|
 
 ### How does "Community maintenance" work?
