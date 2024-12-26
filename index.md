@@ -62,7 +62,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |mlist|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mlist)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mlist/blob/master/README.md)|
 |mp3|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mp3/blob/master/README)|
 |mplayer|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mp3/blob/master/README)|
-|mpv|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mpv/blob/master/README)|
+|mpv|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mpv/blob/master/README)|
 |neutrinoepg|Unknown|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-neutrinoepg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-neutrinoepg/blob/master/README)|
 |noepg|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-noepg)|[Documentation](https://github.com/flensrocker/vdr-plugin-noepg/blob/master/README)|
 |osd2web|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-plugin-osd2web)|[Documentation](https://github.com/horchi/vdr-plugin-osd2web/blob/master/README)|
