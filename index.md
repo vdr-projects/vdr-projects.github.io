@@ -50,6 +50,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |fritzbox|Active maintainer|✔|[Project page](https://github.com/jowi24/vdr-fritz)|[Documentation](https://github.com/jowi24/vdr-fritz/blob/master/README.md)|
 |gamepad|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-gamepad)|[Documentation](https://github.com/vdr-projects/vdr-plugin-gamepad/blob/master/README)|
 |graphlcd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-graphlcd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-graphlcd/blob/master/README)|
+|graphtftng|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-graphtftng)|[Documentation](https://github.com/vdr-projects/vdr-plugin-graphtftng/blob/master/README)|
 |hbbtv|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-plugin-hbbtv)|[Documentation](https://github.com/Zabrimus/vdr-plugin-hbbtv/blob/master/README)|
 |hddarchive|Community maintained|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-hddarchive)|[Documentation](https://github.com/vdr-projects/vdr-plugin-hddarchive/blob/master/README)|
 |history|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/12)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-history)|[Documentation](https://github.com/vdr-projects/vdr-plugin-history/blob/master/README)|
