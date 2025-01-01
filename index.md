@@ -13,10 +13,13 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |ac3mode|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-ac3mode)|[Documentation](https://github.com/vdr-projects/vdr-plugin-ac3mode/wiki)|
 |audiorecorder|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-audiorecorder)|[Documentation](https://github.com/vdr-projects/vdr-plugin-audiorecorder/blob/master/README)|
 |autostart|Active maintainer|✔|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|[Documentation](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
+|avahi4vdr|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-avahi4vdr)|[Documentation](https://github.com/flensrocker/vdr-plugin-avahi4vdr/blob/master/README)|
+|bewegung||Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-bewegung)|[Documentation](https://github.com/vdr-projects/vdr-plugin-bewegung/blob/master/README_EN)|
 |bgprocess|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-bgprocess)|[Documentation](https://github.com/vdr-projects/vdr-plugin-bgprocess/wiki)|
 |block|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-block)|[Documentation](https://github.com/vdr-projects/vdr-plugin-block/blob/master/README)|
 |boblight|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-boblight)|[Documentation](https://github.com/vdr-projects/vdr-plugin-boblight/blob/master/README.md)|
 |burn|Active maintainer|✔|[Project page](https://github.com/FireFlyVDR/vdr-plugin-burn)|[Documentation](https://github.com/FireFlyVDR/vdr-plugin-burn/blob/main/README)|
+|calc|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-calc)|[Documentation](https://github.com/vdr-projects/vdr-plugin-calc/blob/master/README)|
 |cdplayer|Active maintainer|✔|[Project page](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|[Documentation](https://uli-eckhardt.de/vdr/cdplayer.en.shtml)|
 |cecremote|Active maintainer|✔|[Project page](https://uli-eckhardt.de/vdr/cec.en.shtml)|[Documentation](https://uli-eckhardt.de/vdr/cec.en.shtml)|
 |chanman|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-chanman)|[Documentation](https://github.com/vdr-projects/vdr-plugin-chanman/wiki)|
@@ -25,7 +28,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |cinebars|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-cinebars)|[Documentation](hhttps://github.com/vdr-projects/vdr-plugin-cinebars/blob/master/README)|
 |clock|Active maintainer|✔|[Project page](https://github.com/madmartin/vdr-clock)|[Documentation](https://github.com/madmartin/vdr-clock/blob/master/README)|
 |control|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-control)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-control/blob/main/README)|
-|dbus2vdr|Active maintainer|✔|[Project page](https://github.com/flensrocker/vdr-plugin-dbus2vdr)|[Documentation](https://github.com/flensrocker/vdr-plugin-dbus2vdr/blob/master/README)|
+|dbus2vdr|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-dbus2vdr)|[Documentation](https://github.com/flensrocker/vdr-plugin-dbus2vdr/blob/master/README)|
 |ddci2|Active maintainer|✔|[Project page](https://github.com/jasmin-j/vdr-plugin-ddci2)|[Documentation](https://github.com/jasmin-j/vdr-plugin-ddci2/blob/master/README)|
 |devstatus|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/devstatus)|[Documentation](https://gitlab.com/kamel5/devstatus/-/blob/master/README)|
 |dfatmo|Active maintainer|✔|[Project page](https://github.com/durchflieger/dfatmo)|[Documentation](https://github.com/durchflieger/DFAtmo/blob/master/README)|
