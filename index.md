@@ -31,7 +31,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |control|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-control)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-control/blob/main/README)|
 |dbus2vdr|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-dbus2vdr)|[Documentation](https://github.com/vdr-projects/vdr-plugin-dbus2vdr/blob/master/README)|
 |ddci2|Active maintainer|✔|[Project page](https://github.com/jasmin-j/vdr-plugin-ddci2)|[Documentation](https://github.com/jasmin-j/vdr-plugin-ddci2/blob/master/README)|
-|delsys|Active maintainer|✔|[Project page](http://www.escape-edv.de/endriss/vdr/)|Documentation|
+|delsys|Unknown|✔|[Project page](http://www.escape-edv.de/endriss/vdr/)|Documentation|
 |desktop|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-desktop)|[Documentation](https://github.com/vdr-projects/vdr-plugin-desktop/blob/master/README)|
 |devstatus|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/devstatus)|[Documentation](https://gitlab.com/kamel5/devstatus/-/blob/master/README)|
 |dfatmo|Active maintainer|✔|[Project page](https://github.com/durchflieger/dfatmo)|[Documentation](https://github.com/durchflieger/DFAtmo/blob/master/README)|
@@ -102,7 +102,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |remoteosd|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-remoteosd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-remoteosd/blob/master/README)|
 |remotetimers|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-remotetimers)|[Documentation](https://github.com/vdr-projects/vdr-plugin-remotetimers/blob/master/README)|
 |restfulapi|Active maintainer|✔|[Project page](https://github.com/yavdr/vdr-plugin-restfulapi)|Documentation|
-|robotv|Active maintainer|✔|[Project page](https://github.com/pipelka/vdr-plugin-robotv)[Documentation](https://github.com/pipelka/vdr-plugin-robotv/blob/master/README.md)|
+|robotv|Active maintainer|✔|[Project page](https://github.com/pipelka/vdr-plugin-robotv)|[Documentation](https://github.com/pipelka/vdr-plugin-robotv/blob/master/README.md)|
 |rpihddevice|Active maintainer|✔|[Project page](https://github.com/reufer/rpihddevice)|[Documentation](https://github.com/reufer/rpihddevice/blob/master/README)|
 |rssreader|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|[Documentation](https://github.com/rofafor/vdr-plugin-rssreader/blob/master/README)|
 |satip|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip/blob/wirbel/README)|
