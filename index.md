@@ -14,7 +14,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |ac3mode|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134144-vdr-plugin-ac3mode/&postID=1334657#post1334657)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-ac3mode)|[Documentation](https://github.com/vdr-projects/vdr-plugin-ac3mode/wiki)|
 |audiorecorder|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-audiorecorder)|[Documentation](https://github.com/vdr-projects/vdr-plugin-audiorecorder/blob/master/README)|
 |autostart|Active maintainer|✔|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|[Documentation](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
-|avahi4vdr|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-avahi4vdr)|[Documentation](https://github.com/flensrocker/vdr-plugin-avahi4vdr/blob/master/README)|
+|avahi4vdr|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-avahi4vdr)|[Documentation](https://github.com/vdr-projects/vdr-plugin-avahi4vdr/blob/master/README)|
 |bewegung|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-bewegung)|[Documentation](https://github.com/vdr-projects/vdr-plugin-bewegung/blob/master/README_EN)|
 |bgprocess|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-bgprocess)|[Documentation](https://github.com/vdr-projects/vdr-plugin-bgprocess/wiki)|
 |block|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-block)|[Documentation](https://github.com/vdr-projects/vdr-plugin-block/blob/master/README)|
