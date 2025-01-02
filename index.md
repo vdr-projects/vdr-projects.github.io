@@ -29,13 +29,17 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |cinebars|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-cinebars)|[Documentation](hhttps://github.com/vdr-projects/vdr-plugin-cinebars/blob/master/README)|
 |clock|Active maintainer|✔|[Project page](https://github.com/madmartin/vdr-clock)|[Documentation](https://github.com/madmartin/vdr-clock/blob/master/README)|
 |control|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-control)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-control/blob/main/README)|
-|dbus2vdr|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-dbus2vdr)|[Documentation](https://github.com/flensrocker/vdr-plugin-dbus2vdr/blob/master/README)|
+|dbus2vdr|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-dbus2vdr)|[Documentation](https://github.com/vdr-projects/vdr-plugin-dbus2vdr/blob/master/README)|
 |ddci2|Active maintainer|✔|[Project page](https://github.com/jasmin-j/vdr-plugin-ddci2)|[Documentation](https://github.com/jasmin-j/vdr-plugin-ddci2/blob/master/README)|
+|delsys|Active maintainer|✔|[Project page](http://www.escape-edv.de/endriss/vdr/)|Documentation|
+|desktop|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-desktop)|[Documentation](https://github.com/vdr-projects/vdr-plugin-desktop/blob/master/README)|
 |devstatus|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/devstatus)|[Documentation](https://gitlab.com/kamel5/devstatus/-/blob/master/README)|
 |dfatmo|Active maintainer|✔|[Project page](https://github.com/durchflieger/dfatmo)|[Documentation](https://github.com/durchflieger/DFAtmo/blob/master/README)|
+|distributedvideodir|Active maintainer|✔|[Project page](https://www.vdr-portal.de/forum/index.php?thread/128571-distributedvideodirectory-f%C3%BCr-vdr-2-2-0-und-neuer/&postID=1360732#post1360732)|Documentation|
 |dummydevice|Active maintainer|✔|[Project page](http://phivdr.dyndns.org/vdr/vdr-dummydevice/)|[Documentation](https://phivdr.dyndns.org/vdr/vdr-dummydevice/README)|
 |duplicates|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-duplicates)|[Documentation](https://github.com/vdr-projects/vdr-plugin-duplicates/blob/master/README)|
 |dvbapi|Active maintainer|✔|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|[Documentation](https://github.com/manio/vdr-plugin-dvbapi/blob/master/README)|
+|dvbhddevice|Active maintainer|✔|[Project page](https://bitbucket.org/powARman/dvbhddevice)|[Documentation](https://bitbucket.org/powARman/dvbhddevice/src/master/README)|
 |dvbsddevice|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-dvbsddevice)|[Documentation](https://github.com/vdr-projects/vdr-plugin-dvbsddevice/blob/master/README)|
 |dvd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-dvd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-dvd/blob/master/README)|
 |dvdswitch|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-dvdswitch)|[Documentation](https://github.com/vdr-projects/vdr-plugin-dvdswitch/blob/master/README)|
@@ -51,6 +55,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |favorites|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-favorites)|[Documentation](https://github.com/vdr-projects/vdr-plugin-favorites/blob/master/README)|
 |femon|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-femon)|[Documentation](https://github.com/rofafor/vdr-plugin-femon/blob/master/README)|
 |filebrowser|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-filebrowser)|[Documentation](https://github.com/vdr-projects/vdr-plugin-filebrowser/blob/master/README)|
+|freecell|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-freecell)|[Documentation](https://github.com/vdr-projects/vdr-plugin-freecell/blob/master/README)|
 |fritzbox|Active maintainer|✔|[Project page](https://github.com/jowi24/vdr-fritz)|[Documentation](https://github.com/jowi24/vdr-fritz/blob/master/README.md)|
 |gamepad|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-gamepad)|[Documentation](https://github.com/vdr-projects/vdr-plugin-gamepad/blob/master/README)|
 |graphlcd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-graphlcd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-graphlcd/blob/master/README)|
@@ -61,11 +66,15 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |image|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-image/issues/1#issuecomment-1200418878)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-image)|[Documentation](https://github.com/vdr-projects/vdr-plugin-image/blob/master/README)|
 |imonlcd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-imonlcd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-imonlcd/wiki)|
 |iptv|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-plugin-iptv)|[Documentation](https://github.com/Zabrimus/vdr-plugin-iptv/blob/master/README)|
+|karaoke|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-karaoke)|[Documentation](https://github.com/vdr-projects/vdr-plugin-karaoke/blob/master/README)|
 |lcdproc|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-lcdproc)|[Documentation](https://github.com/vdr-projects/vdr-plugin-lcdproc/blob/master/README)|
+|lgcontrol|Unknown|✔|[Project page](https://github.com/maverickme/vdr-plugin-lgcontrol)|[Documentation](https://github.com/maverickme/vdr-plugin-lgcontrol/blob/master/README)|
 |live|Active maintainer|✔|[Project page](https://github.com/MarkusEh/vdr-plugin-live)|[Documentation](https://github.com/MarkusEh/vdr-plugin-live/wiki)|
 |loadepg|Unmaintained|✗|[Project page](http://lukkinosat.altervista.org/)|[Documentation](http://lukkinosat.altervista.org/)|
+|mailbox|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mailbox)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mailbox/blob/master/README)|
 |markad|Active maintainer|✔|[Project page](https://github.com/kfb77/vdr-plugin-markad)|[Documentation](https://github.com/kfb77/vdr-plugin-markad/wiki)|
 |mcli|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-mcli/pull/1#issuecomment-765527863)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mcli/blob/master/README)|
+|menuorg|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-menuorg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-menuorg/blob/master/README)|
 |mlist|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mlist)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mlist/blob/master/README.md)|
 |mousemate|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mousemate)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mousemate/blob/master/README)|
 |mp3|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mp3/blob/master/README)|
@@ -74,8 +83,10 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |neutrinoepg|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-neutrinoepg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-neutrinoepg/blob/master/README)|
 |noepg|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-noepg)|[Documentation](https://github.com/flensrocker/vdr-plugin-noepg/blob/master/README)|
 |osd2web|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-plugin-osd2web)|[Documentation](https://github.com/horchi/vdr-plugin-osd2web/blob/master/README)|
+|osdserver|Unknown|✔|[Project page](http://www.udo-richter.de/vdr/osdserver.html)|[Documentation](http://www.udo-richter.de/vdr/osdserver.html)|
 |osdteletext|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-osdteletext)|[Documentation](https://github.com/vdr-projects/vdr-plugin-osdteletext/wiki)|
 |peer|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-peer)|[Documentation](https://github.com/vdr-projects/vdr-plugin-peer/blob/master/README)|
+|permashift|Active maintainer|✔|[Project page](https://github.com/eikesauer/Permashift)|[Documentation](https://github.com/eikesauer/Permashift/blob/master/README)|
 |pin|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pin)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pin/blob/master/README)|
 |play|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-play)|[Documentation](https://github.com/vdr-projects/vdr-plugin-play/blob/master/README.txt)|
 |plex|Unknown|✔|[Project page](https://github.com/chriszero/vdr-plugin-plex)|[Documentation](https://github.com/chriszero/vdr-plugin-plex/blob/master/README.md)|
@@ -91,6 +102,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |remoteosd|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-remoteosd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-remoteosd/blob/master/README)|
 |remotetimers|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-remotetimers)|[Documentation](https://github.com/vdr-projects/vdr-plugin-remotetimers/blob/master/README)|
 |restfulapi|Active maintainer|✔|[Project page](https://github.com/yavdr/vdr-plugin-restfulapi)|Documentation|
+|robotv|Active maintainer|✔|[Project page](https://github.com/pipelka/vdr-plugin-robotv)[Documentation](https://github.com/pipelka/vdr-plugin-robotv/blob/master/README.md)|
 |rpihddevice|Active maintainer|✔|[Project page](https://github.com/reufer/rpihddevice)|[Documentation](https://github.com/reufer/rpihddevice/blob/master/README)|
 |rssreader|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|[Documentation](https://github.com/rofafor/vdr-plugin-rssreader/blob/master/README)|
 |satip|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip/blob/wirbel/README)|
