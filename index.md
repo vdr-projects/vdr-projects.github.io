@@ -14,7 +14,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |audiorecorder|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-audiorecorder)|[Documentation](https://github.com/vdr-projects/vdr-plugin-audiorecorder/blob/master/README)|
 |autostart|Active maintainer|✔|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|[Documentation](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
 |avahi4vdr|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-avahi4vdr)|[Documentation](https://github.com/flensrocker/vdr-plugin-avahi4vdr/blob/master/README)|
-|bewegung||Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-bewegung)|[Documentation](https://github.com/vdr-projects/vdr-plugin-bewegung/blob/master/README_EN)|
+|bewegung|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-bewegung)|[Documentation](https://github.com/vdr-projects/vdr-plugin-bewegung/blob/master/README_EN)|
 |bgprocess|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-bgprocess)|[Documentation](https://github.com/vdr-projects/vdr-plugin-bgprocess/wiki)|
 |block|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-block)|[Documentation](https://github.com/vdr-projects/vdr-plugin-block/blob/master/README)|
 |boblight|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-boblight)|[Documentation](https://github.com/vdr-projects/vdr-plugin-boblight/blob/master/README.md)|
