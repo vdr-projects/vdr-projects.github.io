@@ -104,7 +104,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |restfulapi|Active maintainer|✔|[Project page](https://github.com/yavdr/vdr-plugin-restfulapi)|Documentation|
 |robotv|Active maintainer|✔|[Project page](https://github.com/pipelka/vdr-plugin-robotv)|[Documentation](https://github.com/pipelka/vdr-plugin-robotv/blob/master/README.md)|
 |rpihddevice|Active maintainer|✔|[Project page](https://github.com/reufer/rpihddevice)|[Documentation](https://github.com/reufer/rpihddevice/blob/master/README)|
-|rssreader|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-rssreader)|[Documentation](https://github.com/rofafor/vdr-plugin-rssreader/blob/master/README)|
+|rssreader|Community maintained[*](https://github.com/rofafor/vdr-plugin-femon/issues/7#issuecomment-2368926226)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-rssreader)|[Documentation](https://github.com/vdr-projects/vdr-plugin-rssreader/blob/master/README)|
 |satip|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip/blob/wirbel/README)|
 |scraper2vdr|Active maintainer|✔|[Project page](https://github.com/horchi/scraper2vdr)|[Documentation](https://github.com/horchi/scraper2vdr/blob/master/README)|
 |seduatmo|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-plugin-seduatmo)|[Documentation](https://github.com/horchi/vdr-plugin-seduatmo/blob/master/README)|
@@ -117,7 +117,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |skinnopacity|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/SkinNopacity)|[Documentation](https://gitlab.com/kamel5/SkinNopacity/-/wikis/home)|
 |skinpearlhd|Community maintained|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-skinpearlhd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-skinpearlhd/blob/master/README)|
 |skinsimple|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/skinsimple)|[Documentation](https://gitlab.com/kamel5/skinsimple/-/blob/master/README)|
-|skinsoppalusikka|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-skinsoppalusikka)|[Documentation](https://github.com/rofafor/vdr-plugin-skinsoppalusikka/blob/master/README)|
+|skinsoppalusikka|Community maintained[*](https://github.com/rofafor/vdr-plugin-femon/issues/7#issuecomment-2368926226)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-skinsoppalusikka)|[Documentation](https://github.com/vdr-projects/vdr-plugin-skinsoppalusikka/blob/master/README)|
 |sleeptimer|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-sleeptimer)|[Documentation](https://github.com/vdr-projects/vdr-plugin-sleeptimer/blob/master/README)|
 |sndctl|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-sndctl)|[Documentation](https://github.com/vdr-projects/vdr-plugin-sndctl/blob/master/README)|
 |softhdcuvid|Active maintainer|✔|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)|[Documentation](https://github.com/jojo61/vdr-plugin-softhdcuvid/blob/master/README.md)|
