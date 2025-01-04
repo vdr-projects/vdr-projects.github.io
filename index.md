@@ -81,7 +81,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |mplayer|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mp3)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mp3/blob/master/README)|
 |mpv|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mpv/blob/master/README)|
 |neutrinoepg|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-neutrinoepg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-neutrinoepg/blob/master/README)|
-|noepg|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-noepg)|[Documentation](https://github.com/flensrocker/vdr-plugin-noepg/blob/master/README)|
+|noepg|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-noepg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-noepg/blob/master/README)|
 |osd2web|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-plugin-osd2web)|[Documentation](https://github.com/horchi/vdr-plugin-osd2web/blob/master/README)|
 |osdserver|Unknown|✔|[Project page](http://www.udo-richter.de/vdr/osdserver.html)|[Documentation](http://www.udo-richter.de/vdr/osdserver.html)|
 |osdteletext|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-osdteletext)|[Documentation](https://github.com/vdr-projects/vdr-plugin-osdteletext/wiki)|
@@ -91,12 +91,12 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |play|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-play)|[Documentation](https://github.com/vdr-projects/vdr-plugin-play/blob/master/README.txt)|
 |plex|Unknown|✔|[Project page](https://github.com/chriszero/vdr-plugin-plex)|[Documentation](https://github.com/chriszero/vdr-plugin-plex/blob/master/README.md)|
 |powermate|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-powermate)|[Documentation](https://github.com/vdr-projects/vdr-plugin-powermate/blob/master/README)|
-|pulsecontrol|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-pulsecontrol)|[Documentation](https://github.com/flensrocker/vdr-plugin-pulsecontrol/blob/master/README)|
+|pulsecontrol|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pulsecontrol)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pulsecontrol/blob/master/README)|
 |pvr350|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/15#issuecomment-1407390635)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvr350)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvr350/blob/master/README)|
 |pvrinput|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvrinput)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvrinput/blob/master/README)|
 |radio|Unknown|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-radio)|[Documentation](https://github.com/vdr-projects/vdr-plugin-radio/blob/master/README)|
 |rcu|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-rcu)|[Documentation](https://github.com/vdr-projects/vdr-plugin-rcu/blob/master/README)|
-|recsearch|Unknown|✔|[Project page](https://github.com/flensrocker/vdr-plugin-recsearch)|[Documentation](https://github.com/flensrocker/vdr-plugin-recsearch/blob/master/README)|
+|recsearch|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-recsearch)|[Documentation](https://github.com/vdr-projects/vdr-plugin-recsearch/blob/master/README)|
 |reelbox|Active maintainer|✔|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|[Documentation](https://github.com/pbiering/vdr-plugin-reelbox/wiki)|
 |remote|Unknown|✔|[Project page](http://www.escape-edv.de/endriss/vdr/)|[Documentation](http://www.escape-edv.de/endriss/vdr/README)|
 |remoteosd|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-remoteosd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-remoteosd/blob/master/README)|
