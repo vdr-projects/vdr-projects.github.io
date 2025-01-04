@@ -53,7 +53,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |externalplayer|Active maintainer|✔|[Project page](https://www.uli-eckhardt.de/vdr/external.en.shtml)|[Documentation](https://www.uli-eckhardt.de/vdr/external.en.shtml)|
 |extrecmenu(ng)|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/extrecmenung)|[Documentation](https://gitlab.com/kamel5/extrecmenung/-/blob/master/README)|
 |favorites|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-favorites)|[Documentation](https://github.com/vdr-projects/vdr-plugin-favorites/blob/master/README)|
-|femon|Active maintainer|✔|[Project page](https://github.com/rofafor/vdr-plugin-femon)|[Documentation](https://github.com/rofafor/vdr-plugin-femon/blob/master/README)|
+|femon|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-femon)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-femon/blob/master/README)|
 |filebrowser|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-filebrowser)|[Documentation](https://github.com/vdr-projects/vdr-plugin-filebrowser/blob/master/README)|
 |freecell|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-freecell)|[Documentation](https://github.com/vdr-projects/vdr-plugin-freecell/blob/master/README)|
 |fritzbox|Active maintainer|✔|[Project page](https://github.com/jowi24/vdr-fritz)|[Documentation](https://github.com/jowi24/vdr-fritz/blob/master/README.md)|
