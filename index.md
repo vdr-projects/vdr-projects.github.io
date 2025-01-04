@@ -145,6 +145,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |weatherforecast|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherforecast)|[Documentation](https://github.com/vdr-projects/vdr-plugin-weatherforecast/blob/master/README)|
 |weatherng|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherng)|[Documentation](https://github.com/vdr-projects/vdr-plugin-weatherng/blob/master/README)|
 |wirbelscan|Active maintainer|✔|[Project page](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|[Documentation](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|
+|xine|Active maintainer|✔|[Project page](https://github.com/j1rie/vdr-plugin-xine)|[Documentation](https://github.com/j1rie/vdr-plugin-xine/blob/main/README)|
 |xineliboutput|Active maintainer|✔|[Project page](https://sourceforge.net/projects/xineliboutput/)|[Documentation](https://sourceforge.net/p/xineliboutput/git/ci/master/tree/README)|
 |xmltv2vdr|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-xmltv2vdr)|[Documentation](https://github.com/vdr-projects/vdr-plugin-xmltv2vdr/blob/master/README)|
 |xmltv4vdr|Active maintainer|✔|[Project page](https://github.com/FireFlyVDR/vdr-plugin-xmltv4vdr)|[Documentation](https://github.com/FireFlyVDR/vdr-plugin-xmltv4vdr/blob/main/README)|
