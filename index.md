@@ -94,7 +94,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |pulsecontrol|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pulsecontrol)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pulsecontrol/blob/master/README)|
 |pvr350|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/15#issuecomment-1407390635)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvr350)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvr350/blob/master/README)|
 |pvrinput|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-pvrinput)|[Documentation](https://github.com/vdr-projects/vdr-plugin-pvrinput/blob/master/README)|
-|radio|Unknown|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-radio)|[Documentation](https://github.com/vdr-projects/vdr-plugin-radio/blob/master/README)|
+|radio|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-radio)|[Documentation](https://github.com/vdr-projects/vdr-plugin-radio/blob/master/README)|
 |rcu|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-rcu)|[Documentation](https://github.com/vdr-projects/vdr-plugin-rcu/blob/master/README)|
 |recsearch|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-recsearch)|[Documentation](https://github.com/vdr-projects/vdr-plugin-recsearch/blob/master/README)|
 |reelbox|Active maintainer|✔|[Project page](https://github.com/pbiering/vdr-plugin-reelbox)|[Documentation](https://github.com/pbiering/vdr-plugin-reelbox/wiki)|
