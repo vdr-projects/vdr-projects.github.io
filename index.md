@@ -56,7 +56,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |femon|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-femon)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-femon/blob/master/README)|
 |filebrowser|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-filebrowser)|[Documentation](https://github.com/vdr-projects/vdr-plugin-filebrowser/blob/master/README)|
 |freecell|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-freecell)|[Documentation](https://github.com/vdr-projects/vdr-plugin-freecell/blob/master/README)|
-|fritzbox|Active maintainer|✔|[Project page](https://github.com/jowi24/vdr-fritz)|[Documentation](https://github.com/jowi24/vdr-fritz/blob/master/README.md)|
+|fritzbox|Unknown|✔|[Project page](https://github.com/jowi24/vdr-fritz)|[Documentation](https://github.com/jowi24/vdr-fritz/blob/master/README.md)|
 |gamepad|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-gamepad)|[Documentation](https://github.com/vdr-projects/vdr-plugin-gamepad/blob/master/README)|
 |graphlcd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-graphlcd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-graphlcd/blob/master/README)|
 |graphtftng|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-graphtftng)|[Documentation](https://github.com/vdr-projects/vdr-plugin-graphtftng/blob/master/README)|
@@ -106,7 +106,9 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |rpihddevice|Active maintainer|✔|[Project page](https://github.com/reufer/rpihddevice)|[Documentation](https://github.com/reufer/rpihddevice/blob/master/README)|
 |rssreader|Community maintained[*](https://github.com/rofafor/vdr-plugin-femon/issues/7#issuecomment-2368926226)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-rssreader)|[Documentation](https://github.com/vdr-projects/vdr-plugin-rssreader/blob/master/README)|
 |satip|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdr-plugin-satip/blob/wirbel/README)|
+|scheduler|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-scheduler)|[Documentation](https://github.com/vdr-projects/vdr-plugin-scheduler/blob/master/README)|
 |scraper2vdr|Active maintainer|✔|[Project page](https://github.com/horchi/scraper2vdr)|[Documentation](https://github.com/horchi/scraper2vdr/blob/master/README)|
+|screenshot|Unknown|✔|[Project page](https://github.com/jowi24/vdr-screenshot)|[Documentation](https://github.com/jowi24/vdr-screenshot/blob/master/README.md)|
 |seduatmo|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-plugin-seduatmo)|[Documentation](https://github.com/horchi/vdr-plugin-seduatmo/blob/master/README)|
 |skindesigner|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/skindesigner)|[Documentation](https://gitlab.com/kamel5/skindesigner/-/wikis/home)|
 |skinelchihd|Active maintainer|✔|[Project page](https://github.com/FireFlyVDR/vdr-plugin-skinelchihd)|[Documentation](https://github.com/FireFlyVDR/vdr-plugin-skinelchihd/wiki)|
@@ -123,6 +125,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |softhdcuvid|Active maintainer|✔|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)|[Documentation](https://github.com/jojo61/vdr-plugin-softhdcuvid/blob/master/README.md)|
 |softhddevice|Active maintainer|✔|[Project page](https://github.com/ua0lnj/vdr-plugin-softhddevice)|[Documentation](https://github.com/ua0lnj/vdr-plugin-softhddevice/blob/latest/README.txt)|
 |softhddevice-drm-gles|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/19)|✔|[Project page](https://github.com/rellla/vdr-plugin-softhddevice-drm-gles)|[Documentation](https://github.com/rellla/vdr-plugin-softhddevice-drm-gles/blob/drm-atomic-gles/README)|
+|solitaire|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-solitaire)|[Documentation](https://github.com/vdr-projects/vdr-plugin-solitaire/blob/master/README)|
 |statusleds|Active maintainer|✔|[Project page](https://github.com/j1rie/vdr-plugin-statusleds)|[Documentation](https://github.com/j1rie/vdr-plugin-statusleds/blob/main/README)|
 |streamdev|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-streamdev)|[Documentation](https://github.com/vdr-projects/vdr-plugin-streamdev/blob/master/README)|
 |suspendoutput|Active maintainer|✔|[Project page](http://phivdr.dyndns.org/vdr/vdr-suspendoutput/)|[Documentation](https://phivdr.dyndns.org/vdr/vdr-suspendoutput/README)|
