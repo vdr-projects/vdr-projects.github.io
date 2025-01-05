@@ -121,6 +121,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |skinpearlhd|Community maintained|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-skinpearlhd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-skinpearlhd/blob/master/README)|
 |skinsimple|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/skinsimple)|[Documentation](https://gitlab.com/kamel5/skinsimple/-/blob/master/README)|
 |skinsoppalusikka|Community maintained[*](https://github.com/rofafor/vdr-plugin-femon/issues/7#issuecomment-2368926226)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-skinsoppalusikka)|[Documentation](https://github.com/vdr-projects/vdr-plugin-skinsoppalusikka/blob/master/README)|
+|skyselectfeeds|Unknown|✔|[Project page](https://github.com/lucianm/vdr-plugin-skyselectfeeds)|[Documentation](https://github.com/lucianm/vdr-plugin-skyselectfeeds/blob/master/README)|
 |sleeptimer|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-sleeptimer)|[Documentation](https://github.com/vdr-projects/vdr-plugin-sleeptimer/blob/master/README)|
 |sndctl|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-sndctl)|[Documentation](https://github.com/vdr-projects/vdr-plugin-sndctl/blob/master/README)|
 |softhdcuvid|Active maintainer|✔|[Project page](https://github.com/jojo61/vdr-plugin-softhdcuvid)|[Documentation](https://github.com/jojo61/vdr-plugin-softhdcuvid/blob/master/README.md)|
