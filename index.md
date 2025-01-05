@@ -110,6 +110,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |scraper2vdr|Active maintainer|✔|[Project page](https://github.com/horchi/scraper2vdr)|[Documentation](https://github.com/horchi/scraper2vdr/blob/master/README)|
 |screenshot|Unknown|✔|[Project page](https://github.com/jowi24/vdr-screenshot)|[Documentation](https://github.com/jowi24/vdr-screenshot/blob/master/README.md)|
 |seduatmo|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-plugin-seduatmo)|[Documentation](https://github.com/horchi/vdr-plugin-seduatmo/blob/master/README)|
+|serial|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-serial)|[Documentation](https://github.com/vdr-projects/vdr-plugin-serial/blob/master/README)|
 |skindesigner|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/skindesigner)|[Documentation](https://gitlab.com/kamel5/skindesigner/-/wikis/home)|
 |skinelchihd|Active maintainer|✔|[Project page](https://github.com/FireFlyVDR/vdr-plugin-skinelchihd)|[Documentation](https://github.com/FireFlyVDR/vdr-plugin-skinelchihd/wiki)|
 |skinenigmang|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-skinenigmang)|[Documentation](https://github.com/vdr-projects/vdr-plugin-skinenigmang/blob/master/README)|
