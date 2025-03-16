@@ -33,7 +33,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |ddci2|Active maintainer|✔|[Project page](https://github.com/jasmin-j/vdr-plugin-ddci2)|[Documentation](https://github.com/jasmin-j/vdr-plugin-ddci2/blob/master/README)|
 |delsys|Unknown|✔|[Project page](http://www.escape-edv.de/endriss/vdr/)|Documentation|
 |desktop|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-desktop)|[Documentation](https://github.com/vdr-projects/vdr-plugin-desktop/blob/master/README)|
-|devstatus|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/devstatus)|[Documentation](https://gitlab.com/kamel5/devstatus/-/blob/master/README)|
+|devstatus|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-devstatus)|[Documentation](https://github.com/vdr-projects/vdr-plugin-devstatus/blob/master/README)|
 |dfatmo|Active maintainer|✔|[Project page](https://github.com/durchflieger/dfatmo)|[Documentation](https://github.com/durchflieger/DFAtmo/blob/master/README)|
 |distributedvideodir|Active maintainer|✔|[Project page](https://www.vdr-portal.de/forum/index.php?thread/128571-distributedvideodirectory-f%C3%BCr-vdr-2-2-0-und-neuer/&postID=1360732#post1360732)|Documentation|
 |dummydevice|Active maintainer|✔|[Project page](http://phivdr.dyndns.org/vdr/vdr-dummydevice/)|[Documentation](https://phivdr.dyndns.org/vdr/vdr-dummydevice/README)|
