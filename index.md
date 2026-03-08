@@ -142,6 +142,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |tvscraper|Active maintainer|✔|[Project page](https://github.com/MarkusEh/vdr-plugin-tvscraper)|[Documentation](https://github.com/MarkusEh/vdr-plugin-tvscraper/blob/master/README.md)|
 |undelete|Active maintainer|✔|[Project page](http://phivdr.dyndns.org/vdr/vdr-undelete/)|[Documentation](https://phivdr.dyndns.org/vdr/vdr-undelete/README)|
 |upnp|Community maintained|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-upnp)|[Documentation](https://github.com/vdr-projects/vdr-plugin-upnp/blob/master/README)|
+|vaapivideo|Active maintainer|✔|[Project page](https://github.com/dnehring7/vdr-plugin-vaapivideo)|[Documentation](https://github.com/dnehring7/vdr-plugin-vaapivideo/blob/main/README.md)|
 |vdirs|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdirs)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdirs/blob/main/README)|
 |vdrmanager|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/17)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-vdrmanager)|[Documentation](https://github.com/vdr-projects/vdr-plugin-vdrmanager/blob/master/vdr-vdrmanager/README)|
 |vdrtva|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-vdrtva)|[Documentation](https://github.com/vdr-projects/vdr-plugin-vdrtva/blob/master/README)|
