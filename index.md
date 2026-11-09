@@ -74,6 +74,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |mailbox|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mailbox)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mailbox/blob/master/README)|
 |markad|Active maintainer|✔|[Project page](https://github.com/kfb77/vdr-plugin-markad)|[Documentation](https://github.com/kfb77/vdr-plugin-markad/wiki)|
 |mcli|Community maintained[*](https://github.com/vdr-projects/vdr-plugin-mcli/pull/1#issuecomment-765527863)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mcli)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mcli/blob/master/README)|
+|mcp|Active maintainer|✔|[Project page](https://github.com/unf/vdr-plugin-mcp)|[Documentation](https://github.com/unf/vdr-plugin-mcp/blob/master/README)|
 |menuorg|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-menuorg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-menuorg/blob/master/README)|
 |mlist|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mlist)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mlist/blob/master/README.md)|
 |mousemate|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mousemate)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mousemate/blob/master/README)|
@@ -82,6 +83,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |mpv|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mpv)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mpv/blob/master/README)|
 |neutrinoepg|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-neutrinoepg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-neutrinoepg/blob/master/README)|
 |noepg|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-noepg)|[Documentation](https://github.com/vdr-projects/vdr-plugin-noepg/blob/master/README)|
+|ohpvstatus|Active maintainer|✔|[Project page](https://github.com/unf/vdr-plugin-ohpvstatus)|[Documentation](https://github.com/unf/vdr-plugin-ohpvstatus/blob/master/README)|
 |osd2web|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-plugin-osd2web)|[Documentation](https://github.com/horchi/vdr-plugin-osd2web/blob/master/README)|
 |osdserver|Unknown|✔|[Project page](http://www.udo-richter.de/vdr/osdserver.html)|[Documentation](http://www.udo-richter.de/vdr/osdserver.html)|
 |osdteletext|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-osdteletext)|[Documentation](https://github.com/vdr-projects/vdr-plugin-osdteletext/wiki)|
@@ -135,7 +137,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |svdrpservice|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134129-https-github-com-vdr-projects-teilweise-wiederbelebt/&postID=1347159#post1347159)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-svdrpservice)|[Documentation](https://github.com/vdr-projects/vdr-plugin-svdrpservice/blob/master/README)|
 |systeminfo|Active maintainer|✔|[Project page](https://github.com/FireFlyVDR/vdr-plugin-systeminfo)|[Documentation](https://github.com/FireFlyVDR/vdr-plugin-systeminfo/blob/main/README)|
 |targavfd|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-targavfd)|[Documentation](https://github.com/vdr-projects/vdr-plugin-targavfd/blob/master/README)|
-|text2skin|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-text2skin)|[Documentation](https://github.com/vdr-projects/vdr-plugin-text2skin/blob/master/README)|
+|text2skin|Active maintainer|✔|[Project page](https://github.com/unf/vdr-plugin-text2skin)|[Documentation](https://github.com/unf/vdr-plugin-text2skin/blob/master/README)|
 |trayopenng|Active maintainer|✔|[Project page](https://uli-eckhardt.de/vdr/trayopenng.en.shtml)|[Documentation](https://uli-eckhardt.de/vdr/trayopenng.en.shtml)|
 |tvguide|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/tvguide)|[Documentation](https://gitlab.com/kamel5/tvguide/-/wikis/home)|
 |tvguideng|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/tvguideng)|[Documentation](https://gitlab.com/kamel5/tvguideng/-/wikis/home)|
