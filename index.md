@@ -69,7 +69,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |karaoke|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-karaoke)|[Documentation](https://github.com/vdr-projects/vdr-plugin-karaoke/blob/master/README)|
 |lcdproc|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-lcdproc)|[Documentation](https://github.com/vdr-projects/vdr-plugin-lcdproc/blob/master/README)|
 |lgcontrol|Unknown|✔|[Project page](https://github.com/maverickme/vdr-plugin-lgcontrol)|[Documentation](https://github.com/maverickme/vdr-plugin-lgcontrol/blob/master/README)|
-|live|Active maintainer|✔|[Project page](https://github.com/MarkusEh/vdr-plugin-live)|[Documentation](https://github.com/MarkusEh/vdr-plugin-live/wiki)|
+|live|Active maintainer|✔|[Project page](https://codeberg.org/MarkusE/vdr-plugin-live)|[Documentation](https://codeberg.org/MarkusE/vdr-plugin-live/wiki)|
 |loadepg|Unmaintained|✗|[Project page](http://lukkinosat.altervista.org/)|[Documentation](http://lukkinosat.altervista.org/)|
 |mailbox|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-mailbox)|[Documentation](https://github.com/vdr-projects/vdr-plugin-mailbox/blob/master/README)|
 |markad|Active maintainer|✔|[Project page](https://github.com/kfb77/vdr-plugin-markad)|[Documentation](https://github.com/kfb77/vdr-plugin-markad/wiki)|
@@ -139,7 +139,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |trayopenng|Active maintainer|✔|[Project page](https://uli-eckhardt.de/vdr/trayopenng.en.shtml)|[Documentation](https://uli-eckhardt.de/vdr/trayopenng.en.shtml)|
 |tvguide|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/tvguide)|[Documentation](https://gitlab.com/kamel5/tvguide/-/wikis/home)|
 |tvguideng|Active maintainer|✔|[Project page](https://gitlab.com/kamel5/tvguideng)|[Documentation](https://gitlab.com/kamel5/tvguideng/-/wikis/home)|
-|tvscraper|Active maintainer|✔|[Project page](https://github.com/MarkusEh/vdr-plugin-tvscraper)|[Documentation](https://github.com/MarkusEh/vdr-plugin-tvscraper/blob/master/README.md)|
+|tvscraper|Active maintainer|✔|[Project page](https://codeberg.org/MarkusE/vdr-plugin-tvscraper)|[Documentation](https://codeberg.org/MarkusE/vdr-plugin-tvscraper#readme)|
 |undelete|Active maintainer|✔|[Project page](http://phivdr.dyndns.org/vdr/vdr-undelete/)|[Documentation](https://phivdr.dyndns.org/vdr/vdr-undelete/README)|
 |upnp|Community maintained|✗|[Project page](https://github.com/vdr-projects/vdr-plugin-upnp)|[Documentation](https://github.com/vdr-projects/vdr-plugin-upnp/blob/master/README)|
 |vaapivideo|Active maintainer|✔|[Project page](https://github.com/dnehring7/vdr-plugin-vaapivideo)|[Documentation](https://github.com/dnehring7/vdr-plugin-vaapivideo/blob/main/README.md)|
