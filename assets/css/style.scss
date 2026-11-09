@@ -9,6 +9,13 @@ table tr:nth-child(2n) {
 }
 
 /* Add platform icons to project page links */
+table td:nth-child(4) a[href^='https://codeberg.org'] {
+  background-image: url("../images/codeberg-logo_icon_white.svg");
+  background-size: 16px;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+}
+
 table td:nth-child(4) a[href^='https://gitlab.com'] {
   background-image: url('../images/gitlab-logo.svg');
   background-size: 16px;
