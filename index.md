@@ -150,6 +150,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vaapivideo|Active maintainer|✔|[Project page](https://github.com/dnehring7/vdr-plugin-vaapivideo)|[Documentation](https://github.com/dnehring7/vdr-plugin-vaapivideo/blob/main/README.md)|
 |vdirs|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/vdirs)|[Documentation](https://github.com/wirbel-at-vdr-portal/vdirs/blob/main/README)|
 |vdrmanager|Active maintainer[*](https://github.com/vdr-projects/vdr-projects.github.io/issues/17)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-vdrmanager)|[Documentation](https://github.com/vdr-projects/vdr-plugin-vdrmanager/blob/master/vdr-vdrmanager/README)|
+|vdrsternelec|Active maintainer|✔|[Project page](https://github.com/rellla/vdr-plugin-vdrsternelec)|[Documentation](https://github.com/rellla/vdr-plugin-vdrsternelec/blob/main/README)|
 |vdrtva|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-vdrtva)|[Documentation](https://github.com/vdr-projects/vdr-plugin-vdrtva/blob/master/README)|
 |vnsiserver|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-vnsiserver)|[Documentation](https://github.com/vdr-projects/vdr-plugin-vnsiserver/blob/master/README)|
 |vompserver|Active maintainer|✔|[Project page](https://www.vomp.tv/vomp.php)|[Documentation](https://www.vomp.tv/vomp.php)|
