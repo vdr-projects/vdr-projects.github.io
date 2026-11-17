@@ -152,6 +152,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vdrtva|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-vdrtva)|[Documentation](https://github.com/vdr-projects/vdr-plugin-vdrtva/blob/master/README)|
 |vnsiserver|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-vnsiserver)|[Documentation](https://github.com/vdr-projects/vdr-plugin-vnsiserver/blob/master/README)|
 |vompserver|Active maintainer|✔|[Project page](https://www.vomp.tv/vomp.php)|[Documentation](https://www.vomp.tv/vomp.php)|
+|vtsatip|Active maintainer|✔|[Project page](https://github.com/rellla/vdr-plugin-vtsatip)|[Documentation](https://github.com/rellla/vdr-plugin-vtsatip/blob/main/README)|
 |weatherforecast|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherforecast)|[Documentation](https://github.com/vdr-projects/vdr-plugin-weatherforecast/blob/master/README)|
 |weatherng|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherng)|[Documentation](https://github.com/vdr-projects/vdr-plugin-weatherng/blob/master/README)|
 |wirbelscan|Active maintainer|✔|[Project page](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|[Documentation](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|
