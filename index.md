@@ -12,6 +12,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |--|--|--|--|--|
 |3dcontrol|Unknown|✔|[Project page](https://github.com/maverickme/vdr-plugin-3dcontrol)|[Documentation](https://github.com/maverickme/vdr-plugin-3dcontrol/blob/master/README)|
 |ac3mode|Community maintained[*](https://www.vdr-portal.de/forum/index.php?thread/134144-vdr-plugin-ac3mode/&postID=1334657#post1334657)|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-ac3mode)|[Documentation](https://github.com/vdr-projects/vdr-plugin-ac3mode/wiki)|
+|actionmenu|Active maintainer|✔|[Project page](https://github.com/rellla/vdr-plugin-actionmenu)|[Documentation](https://github.com/rellla/vdr-plugin-actionmenu/blob/master/README.md)|
 |audiorecorder|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-audiorecorder)|[Documentation](https://github.com/vdr-projects/vdr-plugin-audiorecorder/blob/master/README)|
 |autostart|Active maintainer|✔|[Project page](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|[Documentation](https://www.uli-eckhardt.de/vdr/autostart.en.shtml)|
 |avahi4vdr|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-avahi4vdr)|[Documentation](https://github.com/vdr-projects/vdr-plugin-avahi4vdr/blob/master/README)|
