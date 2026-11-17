@@ -36,6 +36,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |devstatus|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-devstatus)|[Documentation](https://github.com/vdr-projects/vdr-plugin-devstatus/blob/master/README)|
 |dfatmo|Active maintainer|✔|[Project page](https://github.com/durchflieger/dfatmo)|[Documentation](https://github.com/durchflieger/DFAtmo/blob/master/README)|
 |distributedvideodir|Active maintainer|✔|[Project page](https://www.vdr-portal.de/forum/index.php?thread/128571-distributedvideodirectory-f%C3%BCr-vdr-2-2-0-und-neuer/&postID=1360732#post1360732)|Documentation|
+|drmdevice|Active maintainer|✔|[Project page](https://github.com/rellla/vdr-plugin-drmdevice)|[Documentation](https://github.com/rellla/vdr-plugin-drmdevice/blob/main/README.md)|
 |dummydevice|Active maintainer|✔|[Project page](http://phivdr.dyndns.org/vdr/vdr-dummydevice/)|[Documentation](https://phivdr.dyndns.org/vdr/vdr-dummydevice/README)|
 |duplicates|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-duplicates)|[Documentation](https://github.com/vdr-projects/vdr-plugin-duplicates/blob/master/README)|
 |dvbapi|Active maintainer|✔|[Project page](https://github.com/manio/vdr-plugin-dvbapi)|[Documentation](https://github.com/manio/vdr-plugin-dvbapi/blob/master/README)|
