@@ -160,6 +160,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |xineliboutput|Active maintainer|✔|[Project page](https://sourceforge.net/projects/xineliboutput/)|[Documentation](https://sourceforge.net/p/xineliboutput/git/ci/master/tree/README)|
 |xmltv2vdr|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-xmltv2vdr)|[Documentation](https://github.com/vdr-projects/vdr-plugin-xmltv2vdr/blob/master/README)|
 |xmltv4vdr|Active maintainer|✔|[Project page](https://github.com/FireFlyVDR/vdr-plugin-xmltv4vdr)|[Documentation](https://github.com/FireFlyVDR/vdr-plugin-xmltv4vdr/blob/main/README)|
+|zapcache|Active maintainer|✔|[Project page](https://github.com/rellla/vdr-plugin-zapcache)|[Documentation](https://github.com/rellla/vdr-plugin-zapcache/blob/main/README.md)|
 |zaphistory|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-zaphistory)|[Documentation](https://github.com/vdr-projects/vdr-plugin-zaphistory/blob/master/README)|
 |zappilot|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-zappilot)|[Documentation](https://github.com/vdr-projects/vdr-plugin-zappilot/blob/master/README)|
 
